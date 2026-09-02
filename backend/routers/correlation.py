@@ -7,7 +7,13 @@ from sqlalchemy.orm import Session
 from database import get_db
 from ml.stylometry import measure, stylometry_similarity
 from schemas.behavior import BehavioralComparison, BehavioralProfile
-from schemas.correlation import CorrelationRequest, CorrelationResult, StylometryRequest, StylometryResult
+from schemas.correlation import (
+    CorrelationRequest,
+    CorrelationResult,
+    IdentityCorrelationResult,
+    StylometryRequest,
+    StylometryResult,
+)
 from schemas.infrastructure import InfrastructureAnalysisResult, InfrastructureProfile
 from services import (
     behavior_service,
@@ -30,6 +36,27 @@ def analyze_correlation(request: CorrelationRequest, db: Session = Depends(get_d
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc))
     return CorrelationResult(**result)
+
+
+@router.post("/correlation/analyze-two", response_model=IdentityCorrelationResult)
+def analyze_two_identities(
+    identity_id_a: str,
+    identity_id_b: str,
+    methods: list[str] | None = None,
+    min_confidence: float = 0.0,
+    weights: dict[str, float] | None = None,
+) -> IdentityCorrelationResult:
+    try:
+        result = correlation_service.analyze_two_identities(
+            id_a=identity_id_a,
+            id_b=identity_id_b,
+            methods=methods,
+            min_confidence=min_confidence,
+            weights=weights,
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc))
+    return IdentityCorrelationResult(**result)
 
 
 @router.post("/stylometry/compare", response_model=StylometryResult)

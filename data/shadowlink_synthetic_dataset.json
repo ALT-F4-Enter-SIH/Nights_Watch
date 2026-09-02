@@ -1,0 +1,229 @@
+{
+  "dataset_name": "ShadowLink AI Synthetic Intelligence Dataset",
+  "version": "1.0.0",
+  "identities": [
+    {
+      "id": "nt-001",
+      "username": "NightTrader",
+      "aliases": ["night_trader_obs", "night_01"],
+      "email": "night@simulated.research",
+      "pgp_fingerprint": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+      "crypto_wallets": ["0x7a2c91abcd0123456789abcdef0123456789abc"],
+      "platform": "market",
+      "bio": "Synthetic identity — defensive intelligence demonstration.",
+      "writing_samples": [
+        "Market patterns indicate accumulation during off-peak hours.",
+        "Wallet flow analysis shows synchronized movement across clusters.",
+        "Price action correlates with hidden identity posting cycles.",
+      ],
+      "writing_style_signature": {
+        "avg_word_length": 5.84,
+        "punctuation_density": 0.142,
+        "vocabulary_diversity": 0.81
+      },
+      "posting_hours": [22, 23, 0, 1, 2],
+      "categories": ["crypto_trading", "night_analysis"],
+      "languages": ["en", "ru"],
+      "risk_score": 0.85,
+      "relationships": [],
+      "behavioral_profile": {
+        "typical_session_length_minutes": 45,
+        "platform_switch_frequency": "medium",
+        "response_latency_pattern": "fast"
+      },
+      "infrastructure_metadata": {
+        "origin_ip_range": "192.168.17.22",
+        "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+        "connection_type": "research_gateway",
+        "platform_tags": ["market", "social"]
+      },
+      "metadata": {
+        "cluster": "night_trader_cluster",
+        "synthetic": True,
+        "dataset_version": "1.0.0",
+        "created_for": "hackathon_demonstration"
+      },
+      "data_source": "synthetic_research_dataset",
+      "dataset_version": "1.0.0",
+      "created_for": "hackathon_demonstration",
+      "notes": [
+        "Synthetic identity — no real-world correlation intended.",
+        "For defensive security research and educational purposes only."
+      ]
+    },
+    {
+      "id": "dp-001",
+      "username": "DarkPhoenix",
+      "aliases": ["dark_phoenix_obs", "dark_77"],
+      "email": "darkph@simulated.research",
+      "pgp_fingerprint": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+      "crypto_wallets": ["0x7a2c91abcd0123456789abcdef0123456789def"],
+      "platform": "market",
+      "bio": "Synthetic identity — defensive intelligence demonstration.",
+      "writing_samples": [
+        "Market patterns indicate accumulation during off-peak hours.",
+        "Wallet flow analysis shows synchronized movement across clusters.",
+        "Price action correlates with hidden identity posting cycles.",
+      ],
+      "writing_style_signature": {
+        "avg_word_length": 5.82,
+        "punctuation_density": 0.138,
+        "vocabulary_diversity": 0.80
+      },
+      "posting_hours": [22, 23, 0, 1, 2],
+      "categories": ["crypto_trading", "night_analysis"],
+      "languages": ["en", "ru"],
+      "risk_score": 0.88,
+      "relationships": [],
+      "behavioral_profile": {
+        "typical_session_length_minutes": 50,
+        "platform_switch_frequency": "medium",
+        "response_latency_pattern": "moderate"
+      },
+      "infrastructure_metadata": {
+        "origin_ip_range": "192.168.17.28",
+        "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+        "connection_type": "research_gateway",
+        "platform_tags": ["market", "social"]
+      },
+      "metadata": {
+        "cluster": "night_trader_cluster",
+        "synthetic": True,
+        "dataset_version": "1.0.0",
+        "created_for": "hackathon_demonstration"
+      },
+      "data_source": "synthetic_research_dataset",
+      "dataset_version": "1.0.0",
+      "created_for": "hackathon_demonstration",
+      "notes": [
+        "Synthetic identity — no real-world correlation intended.",
+        "For defensive security research and educational purposes only."
+      ]
+    },
+    {
+      "id": "dm-001",
+      "username": "DataMiner",
+      "aliases": ["data_miner_42"],
+      "email": "dataminer@simulated.research",
+      "pgp_fingerprint": "F9E8D7C6B5A43210F9E8D7C6B5A43210F9E8D7C6",
+      "crypto_wallets": ["0xdeadbeef0123456789abcdef0123456789dead"],
+      "platform": "forum",
+      "bio": "Synthetic identity — defensive intelligence demonstration.",
+      "writing_samples": [
+        "Data mining techniques extract patterns from telemetry streams.",
+        "Synthetic telemetry clustering suggests a shared observation node.",
+        "Analysis of infrastructure patterns shows consistent metadata alignment.",
+      ],
+      "writing_style_signature": {
+        "avg_word_length": 6.2,
+        "punctuation_density": 0.08,
+        "vocabulary_diversity": 0.65
+      },
+      "posting_hours": [10, 11, 12, 13],
+      "categories": ["general_analysis", "data_review"],
+      "languages": ["en", "de"],
+      "risk_score": 0.15,
+      "relationships": [],
+      "behavioral_profile": {
+        "typical_session_length_minutes": 30,
+        "platform_switch_frequency": "low",
+        "response_latency_pattern": "variable"
+      },
+      "infrastructure_metadata": {
+        "origin_ip_range": "10.5.100.55",
+        "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+        "connection_type": "simulated",
+        "platform_tags": ["forum", "social"]
+      },
+      "metadata": {
+        "cluster": null,
+        "synthetic": True,
+        "dataset_version": "1.0.0",
+        "created_for": "hackathon_demonstration"
+      },
+      "data_source": "synthetic_research_dataset",
+      "dataset_version": "1.0.0",
+      "created_for": "hackathon_demonstration",
+      "notes": [
+        "Synthetic identity — no real-world correlation intended.",
+        "For defensive security research and educational purposes only."
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel-001",
+      "source": "NightTrader",
+      "target": "DarkPhoenix",
+      "source_identity_id": "nt-001",
+      "target_identity_id": "dp-001",
+      "correlation_type": "hidden_cluster",
+      "confidence_score": 0.92,
+      "evidence": {
+        "pgp_shared": True,
+        "pgp_fingerprint": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+        "wallet_shared_prefix": "0x7a2c91",
+        "hours_overlap": [22, 23, 0, 1, 2],
+        "categories_overlap": ["crypto_trading", "night_analysis"],
+        "writing_style_similarity": 0.92
+      },
+      "evidence_items": [
+        "shared_pgp_fingerprint",
+        "related_wallet_prefix",
+        "overlapping_active_hours",
+        "matching_categories",
+        "similar_writing_style"
+      ],
+      "explanation": "Hidden cluster — NightTrader and DarkPhoenix share PGP fingerprint, related wallet prefix 0x7a2c91, overlapping hours 22-02, and categories. Same simulated actor hypothesis: HIGH."
+    }
+  ],
+  "hidden_clusters": [
+    {
+      "name": "night_trader_cluster",
+      "members": ["NightTrader", "DarkPhoenix"],
+      "signals": {
+        "pgp_shared": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+        "wallet_shared_prefix": "0x7a2c91",
+        "hours_overlap": [22, 23, 0, 1, 2],
+        "categories_overlap": ["crypto_trading", "night_analysis"],
+        "languages": ["en", "ru"],
+        "writing_style": {
+          "avg_word_length": 5.84,
+          "punctuation_density": 0.142,
+          "vocabulary_diversity": 0.81
+        }
+      }
+    }
+  ],
+  "investigations": [
+    {
+      "id": "inv-001",
+      "title": "Hidden Cluster Analysis — Night Operations",
+      "description": "Investigation into synchronized posting patterns between synthetic identities sharing behavioral and infrastructure markers.",
+      "status": "open",
+      "priority": "high",
+      "linked_identities": ["NightTrader", "DarkPhoenix"],
+      "linked_identity_ids": ["nt-001", "dp-001"],
+      "evidence_items": [
+        {"type": "behavioral", "value": "Overlapping active hours (22-02)", "timestamp": "2025-09-02T14:30:00Z"},
+        {"type": "writing", "value": "Style similarity: 92%", "timestamp": "2025-09-02T14:30:00Z"},
+        {"type": "infrastructure", "value": "Related wallet prefix: 0x7a2c91", "timestamp": "2025-09-02T14:30:00Z"},
+        {"type": "pgp", "value": "Shared PGP fingerprint", "timestamp": "2025-09-02T14:30:00Z"}
+      ],
+      "notes": "Synthetic research dataset — defensive intelligence demonstration only."
+    }
+  ],
+  "summary_statistics": {
+    "total_identities": 3,
+    "total_relationship_edges": 1,
+    "hidden_clusters": 1,
+    "high_confidence_edges": 1,
+    "medium_confidence_edges": 0,
+    "unrelated_identities": 1,
+    "investigations": 1,
+    "average_risk_score": 0.293,
+    "languages_present": ["de", "en", "ru"],
+    "categories_present": ["crypto_trading", "night_analysis", "general_analysis", "data_review"]
+  },
+  "disclaimer": "This dataset contains ONLY synthetic, mock data. It is designed for defensive security education, authorized threat intelligence demonstration, and AI correlation algorithm testing. No real-world identities, unauthorized data, or exploitation features are included."
+}
