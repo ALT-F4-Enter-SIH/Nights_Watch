@@ -1,0 +1,413 @@
+[
+  {
+    "id": "02c1aa0b-22f0-430b-a8e1-46d624ff4488",
+    "source": "NightTrader",
+    "target": "DarkPhoenix",
+    "source_identity_id": "cefaca30-1e7a-400f-bead-41f297ca8b47",
+    "target_identity_id": "4d6d96da-7358-4f63-8a55-677796708629",
+    "correlation_type": "hidden_cluster",
+    "confidence_score": 0.92,
+    "evidence": {
+      "pgp_shared": true,
+      "pgp_fingerprint": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+      "wallet_shared_prefix": "0x7a2c91",
+      "hours_overlap": [
+        22,
+        23,
+        0,
+        1,
+        2
+      ],
+      "categories_overlap": [
+        "crypto_trading",
+        "night_analysis"
+      ],
+      "writing_style_similarity": 0.92,
+      "cluster": "night_trader_cluster"
+    },
+    "evidence_items": [
+      "shared_pgp_fingerprint",
+      "related_wallet_prefix",
+      "overlapping_active_hours",
+      "matching_categories",
+      "similar_writing_style"
+    ],
+    "explanation": "Hidden cluster \u2014 NightTrader and DarkPhoenix share PGP fingerprint, related wallet prefix 0x7a2c91, overlapping hours [22, 23, 0, 1, 2], and categories ['crypto_trading', 'night_analysis']. Same simulated actor hypothesis: HIGH."
+  },
+  {
+    "id": "45de6ef4-0165-4453-9639-d8094a476547",
+    "source": "CyberWatch",
+    "target": "NetHunter",
+    "source_identity_id": "55e39c35-f16c-4b55-8d2c-63395c5342d7",
+    "target_identity_id": "8ce5d40f-8a73-401a-83f7-812c5ca27eef",
+    "correlation_type": "hidden_cluster",
+    "confidence_score": 0.92,
+    "evidence": {
+      "pgp_shared": true,
+      "pgp_fingerprint": "B2C3D4E5F6A78901ABCDEF1234567890ABCDEF23",
+      "wallet_shared_prefix": "0x8b3d02",
+      "hours_overlap": [
+        9,
+        10,
+        11
+      ],
+      "categories_overlap": [
+        "threat_intel",
+        "infra_scan"
+      ],
+      "writing_style_similarity": 0.92,
+      "cluster": "cyber_op_cluster"
+    },
+    "evidence_items": [
+      "shared_pgp_fingerprint",
+      "related_wallet_prefix",
+      "overlapping_active_hours",
+      "matching_categories",
+      "similar_writing_style"
+    ],
+    "explanation": "Hidden cluster \u2014 CyberWatch and NetHunter share PGP fingerprint, related wallet prefix 0x8b3d02, overlapping hours [9, 10, 11], and categories ['threat_intel', 'infra_scan']. Same simulated actor hypothesis: HIGH."
+  },
+  {
+    "id": "31411f02-6df5-4c43-bc3f-5241a4370493",
+    "source": "GhostRunner",
+    "target": "ShadowDev",
+    "source_identity_id": "e038a71c-1c5d-48e3-b2d3-8f545068dd1a",
+    "target_identity_id": "cb18ebff-dc3f-4c87-af14-16652a511f78",
+    "correlation_type": "hidden_cluster",
+    "confidence_score": 0.92,
+    "evidence": {
+      "pgp_shared": true,
+      "pgp_fingerprint": "C3D4E5F6A7B89012ABCDEF34567890ABCDEF3456",
+      "wallet_shared_prefix": "0x9c4e13",
+      "hours_overlap": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "categories_overlap": [
+        "dev_sec",
+        "exploit_research"
+      ],
+      "writing_style_similarity": 0.92,
+      "cluster": "dark_op_cluster"
+    },
+    "evidence_items": [
+      "shared_pgp_fingerprint",
+      "related_wallet_prefix",
+      "overlapping_active_hours",
+      "matching_categories",
+      "similar_writing_style"
+    ],
+    "explanation": "Hidden cluster \u2014 GhostRunner and ShadowDev share PGP fingerprint, related wallet prefix 0x9c4e13, overlapping hours [3, 4, 5, 6], and categories ['dev_sec', 'exploit_research']. Same simulated actor hypothesis: HIGH."
+  },
+  {
+    "id": "8e8d3bf4-31e3-4da0-b5ef-a4b149e49569",
+    "source": "MarketEye",
+    "target": "TradeSense",
+    "source_identity_id": "db8b9eff-f6e0-478f-94fc-5564f729433a",
+    "target_identity_id": "7ad36f7e-e7e4-410a-b39f-f419b370ffd8",
+    "correlation_type": "hidden_cluster",
+    "confidence_score": 0.92,
+    "evidence": {
+      "pgp_shared": true,
+      "pgp_fingerprint": "D4E5F6A7B8C90123ABCDEF4567890ABCDEF45678",
+      "wallet_shared_prefix": "0xad5f24",
+      "hours_overlap": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "categories_overlap": [
+        "market_analysis",
+        "quant_trading"
+      ],
+      "writing_style_similarity": 0.92,
+      "cluster": "fin_analyst_cluster"
+    },
+    "evidence_items": [
+      "shared_pgp_fingerprint",
+      "related_wallet_prefix",
+      "overlapping_active_hours",
+      "matching_categories",
+      "similar_writing_style"
+    ],
+    "explanation": "Hidden cluster \u2014 MarketEye and TradeSense share PGP fingerprint, related wallet prefix 0xad5f24, overlapping hours [14, 15, 16, 17], and categories ['market_analysis', 'quant_trading']. Same simulated actor hypothesis: HIGH."
+  },
+  {
+    "id": "671e0995-c8c9-4dcc-87a5-31c8adad2fe6",
+    "source": "InfoSecPro",
+    "target": "SecAnalyst",
+    "source_identity_id": "12fa26e6-9a06-4386-bfc6-ff541962eeca",
+    "target_identity_id": "14631507-3659-41ff-8d88-e09065232500",
+    "correlation_type": "hidden_cluster",
+    "confidence_score": 0.92,
+    "evidence": {
+      "pgp_shared": true,
+      "pgp_fingerprint": "E5F6A7B8C9D01234ABCDEF567890ABCDEF567890",
+      "wallet_shared_prefix": "0xbe6035",
+      "hours_overlap": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "categories_overlap": [
+        "security",
+        "vuln_research"
+      ],
+      "writing_style_similarity": 0.92,
+      "cluster": "security_research_cluster"
+    },
+    "evidence_items": [
+      "shared_pgp_fingerprint",
+      "related_wallet_prefix",
+      "overlapping_active_hours",
+      "matching_categories",
+      "similar_writing_style"
+    ],
+    "explanation": "Hidden cluster \u2014 InfoSecPro and SecAnalyst share PGP fingerprint, related wallet prefix 0xbe6035, overlapping hours [10, 11, 12, 13], and categories ['security', 'vuln_research']. Same simulated actor hypothesis: HIGH."
+  },
+  {
+    "id": "1d0a8b5d-d546-4c69-a779-d6e57a42ca0b",
+    "source": "HashOrbit",
+    "target": "PatternHunter",
+    "source_identity_id": "b7ba46c0-f8eb-4d96-a6cc-69404541c20d",
+    "target_identity_id": "bd49d467-7068-4296-a8bd-3012e10d47ad",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.75,
+    "evidence": {
+      "hour_overlap": [
+        21
+      ],
+      "category_overlap": [
+        "data_review",
+        "general_analysis"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between HashOrbit and PatternHunter. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "64088f17-5675-4c10-889a-aa4ca0ac3f5e",
+    "source": "NodeGraph",
+    "target": "RouteFind",
+    "source_identity_id": "fbacaa5a-3fe8-44e3-9043-33b18fee6f75",
+    "target_identity_id": "20269492-006f-4acd-b0c7-8e03542a4eb8",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.63,
+    "evidence": {
+      "hour_overlap": [],
+      "category_overlap": [
+        "data_review",
+        "network_study"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between NodeGraph and RouteFind. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "6395b4b8-8bf7-4cb0-8798-eaa322e396e3",
+    "source": "ByteForge",
+    "target": "PortScan",
+    "source_identity_id": "5fc29715-8e53-4920-b0bb-4b4309f4a5f6",
+    "target_identity_id": "a669d5d8-8819-4f10-a5d3-ca8439dbdaa7",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.69,
+    "evidence": {
+      "hour_overlap": [
+        3,
+        22
+      ],
+      "category_overlap": [
+        "data_review",
+        "general_analysis",
+        "metadata_research"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between ByteForge and PortScan. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "dcedd388-3255-432f-9094-ef66f84bd0df",
+    "source": "FrameAnalyst",
+    "target": "LogSeeker",
+    "source_identity_id": "c2a7c256-8020-4fdc-b4da-4bebb68016f9",
+    "target_identity_id": "87fdf05f-198f-47b9-8d51-740f69ff1bb8",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.55,
+    "evidence": {
+      "hour_overlap": [
+        19
+      ],
+      "category_overlap": [
+        "behavioral_analysis",
+        "network_study"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between FrameAnalyst and LogSeeker. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "8b75a51d-879a-400a-97c6-767929f4049f",
+    "source": "PathMapper",
+    "target": "NodeGraph",
+    "source_identity_id": "4779ea8d-47f1-43a8-854a-0f5134bb9408",
+    "target_identity_id": "fbacaa5a-3fe8-44e3-9043-33b18fee6f75",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.67,
+    "evidence": {
+      "hour_overlap": [
+        11
+      ],
+      "category_overlap": [
+        "behavioral_analysis",
+        "data_review"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between PathMapper and NodeGraph. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "13fcd9e6-b4dc-49f6-aa65-32dc1778434c",
+    "source": "NetworkScan",
+    "target": "WaveHunter",
+    "source_identity_id": "4b1e5f17-a520-4456-9bab-dbb4c74280e5",
+    "target_identity_id": "afffa9f7-2190-4c34-9504-0b7440b1b302",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.64,
+    "evidence": {
+      "hour_overlap": [
+        4,
+        16,
+        22
+      ],
+      "category_overlap": [
+        "behavioral_analysis",
+        "network_study",
+        "pattern_recognition"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between NetworkScan and WaveHunter. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "b3d6acdf-cc01-4e9b-a3fc-988d41b4c351",
+    "source": "DataDrift",
+    "target": "SyncFlow",
+    "source_identity_id": "f72a874c-b4c9-4487-a37c-641248dfcb52",
+    "target_identity_id": "73cce5f2-6348-4c35-88ed-0455810c114e",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.67,
+    "evidence": {
+      "hour_overlap": [
+        2,
+        17,
+        23
+      ],
+      "category_overlap": [
+        "metadata_research"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between DataDrift and SyncFlow. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "be492c5a-d7ef-43f4-92dc-9c042f1f9d21",
+    "source": "EchoGrid",
+    "target": "TraceNode",
+    "source_identity_id": "22fcbcdd-6e53-4fa5-8120-b0b2e95f55b7",
+    "target_identity_id": "f0e2819f-3db7-4e5f-9931-d4749246bd2c",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.69,
+    "evidence": {
+      "hour_overlap": [],
+      "category_overlap": [
+        "data_review",
+        "network_study"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between EchoGrid and TraceNode. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "f98c581b-c78c-4643-91d4-d3ed4c4d8557",
+    "source": "WaveHunter",
+    "target": "MetaScan",
+    "source_identity_id": "afffa9f7-2190-4c34-9504-0b7440b1b302",
+    "target_identity_id": "2707fec6-4b3c-4628-988e-2355f018b619",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.73,
+    "evidence": {
+      "hour_overlap": [
+        9
+      ],
+      "category_overlap": [
+        "network_study"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between WaveHunter and MetaScan. Similar active windows and content categories detected in synthetic telemetry."
+  },
+  {
+    "id": "bf3d27fa-ce04-4171-a636-f561807c94d9",
+    "source": "PacketDive",
+    "target": "SignalTracer",
+    "source_identity_id": "71a9c465-6e33-4975-9461-de269c3e4f1c",
+    "target_identity_id": "5173dfd3-41e7-444c-a3a5-c2016c4d80d5",
+    "correlation_type": "behavioral_similarity",
+    "confidence_score": 0.66,
+    "evidence": {
+      "hour_overlap": [
+        7
+      ],
+      "category_overlap": [
+        "behavioral_analysis",
+        "network_study"
+      ],
+      "method": "seeded_medium_confidence"
+    },
+    "evidence_items": [
+      "hour_overlap",
+      "category_overlap"
+    ],
+    "explanation": "Medium-confidence behavioral correlation between PacketDive and SignalTracer. Similar active windows and content categories detected in synthetic telemetry."
+  }
+]

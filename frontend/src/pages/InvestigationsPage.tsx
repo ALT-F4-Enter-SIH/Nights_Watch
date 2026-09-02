@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import MetricCard from '../components/ui/MetricCard'
 import RiskBadge from '../components/ui/RiskBadge'
-import { ShieldCheck, Network, Sparkles, FileText, Clock, UserCheck, BarChart3, Layers, ChevronRight } from 'lucide-react'
+import { ShieldCheck, Network, Sparkles, FileText, Clock, UserCheck, Layers, ChevronRight } from 'lucide-react'
 
 const INV = {
   id: 'INV-2026-001',

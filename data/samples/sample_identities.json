@@ -1,0 +1,5570 @@
+[
+  {
+    "id": "cefaca30-1e7a-400f-bead-41f297ca8b47",
+    "username": "NightTrader",
+    "aliases": [
+      "nighttrader_obs",
+      "nighttrader_44"
+    ],
+    "email": "nighttrader@simulated.research",
+    "pgp_fingerprint": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+    "crypto_wallets": [
+      "0x7a2c91a043bae1603803a839c0cb52f511d9cb8f"
+    ],
+    "wallet_addresses": [
+      "0x7a2c91a043bae1603803a839c0cb52f511d9cb8f"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Price action correlates with hidden identity posting cycles.",
+      "Wallet flow analysis shows synchronized movement across clusters.",
+      "Liquidity windows align with nocturnal observation cycles."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.82,
+      "punctuation_density": 0.143,
+      "vocabulary_diversity": 0.82
+    },
+    "posting_timestamps": [
+      "2026-07-20T02:37:30Z",
+      "2026-07-22T06:16:30Z",
+      "2026-07-23T03:56:30Z",
+      "2026-08-08T02:31:30Z",
+      "2026-08-09T04:07:30Z",
+      "2026-08-10T03:48:30Z",
+      "2026-08-14T04:36:30Z",
+      "2026-08-14T06:50:30Z",
+      "2026-08-15T04:52:30Z",
+      "2026-08-17T04:01:30Z",
+      "2026-08-18T05:06:30Z",
+      "2026-08-29T03:38:30Z",
+      "2026-08-30T03:05:30Z",
+      "2026-08-30T03:41:30Z"
+    ],
+    "posting_hours": [
+      0,
+      1,
+      2,
+      22,
+      23
+    ],
+    "active_hours": [
+      0,
+      1,
+      2,
+      22,
+      23
+    ],
+    "post_frequency_daily": 0.73,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [
+      "crypto_trading",
+      "night_analysis"
+    ],
+    "content_tags": [
+      "crypto_trading",
+      "night_analysis"
+    ],
+    "risk_score": 0.82,
+    "relationships": [
+      {
+        "identity_id": "4d6d96da-7358-4f63-8a55-677796708629",
+        "username": "DarkPhoenix",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 87,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.17.37",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "marketplace",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": "night_trader_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "4d6d96da-7358-4f63-8a55-677796708629",
+    "username": "DarkPhoenix",
+    "aliases": [
+      "darkphoenix_obs",
+      "darkphoenix_70"
+    ],
+    "email": "darkphoenix@simulated.research",
+    "pgp_fingerprint": "A1B2C3D4E5F67890ABCDEF1234567890ABCDEF12",
+    "crypto_wallets": [
+      "0x7a2c91ea22b8b695f27cd22a969748fa1ecc5420"
+    ],
+    "wallet_addresses": [
+      "0x7a2c91ea22b8b695f27cd22a969748fa1ecc5420"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Market patterns indicate accumulation during off-peak hours.",
+      "Price action correlates with hidden identity posting cycles.",
+      "On-chain metrics reveal unusual transaction clustering patterns."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.88,
+      "punctuation_density": 0.146,
+      "vocabulary_diversity": 0.83
+    },
+    "posting_timestamps": [
+      "2026-07-22T03:02:30Z",
+      "2026-07-23T05:16:30Z",
+      "2026-07-24T07:17:30Z",
+      "2026-07-25T04:21:30Z",
+      "2026-07-28T03:53:30Z",
+      "2026-07-29T03:45:30Z",
+      "2026-07-29T07:23:30Z",
+      "2026-07-30T04:52:30Z",
+      "2026-08-01T03:56:30Z",
+      "2026-08-01T06:20:30Z",
+      "2026-08-02T03:40:30Z",
+      "2026-08-09T03:56:30Z",
+      "2026-08-11T04:53:30Z",
+      "2026-08-11T04:58:30Z",
+      "2026-08-11T07:29:30Z",
+      "2026-08-12T06:48:30Z",
+      "2026-08-13T04:27:30Z",
+      "2026-08-15T05:35:30Z",
+      "2026-08-16T06:25:30Z",
+      "2026-08-17T02:48:30Z",
+      "2026-08-17T04:26:30Z",
+      "2026-08-18T05:26:30Z",
+      "2026-08-23T05:54:30Z",
+      "2026-08-24T03:48:30Z",
+      "2026-08-25T02:34:30Z",
+      "2026-08-26T06:38:30Z",
+      "2026-08-27T05:41:30Z",
+      "2026-08-28T04:35:30Z"
+    ],
+    "posting_hours": [
+      0,
+      1,
+      2,
+      22,
+      23
+    ],
+    "active_hours": [
+      0,
+      1,
+      2,
+      22,
+      23
+    ],
+    "post_frequency_daily": 3.33,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [
+      "crypto_trading",
+      "night_analysis"
+    ],
+    "content_tags": [
+      "crypto_trading",
+      "night_analysis"
+    ],
+    "risk_score": 0.86,
+    "relationships": [
+      {
+        "identity_id": "cefaca30-1e7a-400f-bead-41f297ca8b47",
+        "username": "NightTrader",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 39,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.17.26",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "social",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": "night_trader_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "55e39c35-f16c-4b55-8d2c-63395c5342d7",
+    "username": "CyberWatch",
+    "aliases": [
+      "cyberwatch_obs",
+      "cyberwatch_74"
+    ],
+    "email": "cyberwatch@simulated.research",
+    "pgp_fingerprint": "B2C3D4E5F6A78901ABCDEF1234567890ABCDEF23",
+    "crypto_wallets": [
+      "0x8b3d026d0aa0bc138227d1cd1a801c367de206ec"
+    ],
+    "wallet_addresses": [
+      "0x8b3d026d0aa0bc138227d1cd1a801c367de206ec"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Evidence correlation points to sustained operational interest.",
+      "Network metadata shows overlapping origin points during active windows.",
+      "Recent infrastructure scans reveal consistent fingerprint patterns."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.18,
+      "punctuation_density": 0.121,
+      "vocabulary_diversity": 0.89
+    },
+    "posting_timestamps": [
+      "2026-07-20T18:10:30Z",
+      "2026-07-23T18:24:30Z",
+      "2026-07-24T19:51:30Z",
+      "2026-07-25T17:57:30Z",
+      "2026-07-25T18:58:30Z",
+      "2026-07-26T19:53:30Z",
+      "2026-07-28T19:43:30Z",
+      "2026-07-29T20:27:30Z",
+      "2026-07-30T19:36:30Z",
+      "2026-08-11T19:17:30Z",
+      "2026-08-11T20:27:30Z",
+      "2026-08-12T19:10:30Z",
+      "2026-08-16T19:05:30Z",
+      "2026-08-16T19:23:30Z",
+      "2026-08-18T19:53:30Z",
+      "2026-08-20T19:52:30Z",
+      "2026-08-23T17:49:30Z",
+      "2026-08-26T18:48:30Z",
+      "2026-08-27T17:35:30Z",
+      "2026-08-27T18:17:30Z",
+      "2026-08-27T20:01:30Z"
+    ],
+    "posting_hours": [
+      9,
+      10,
+      11
+    ],
+    "active_hours": [
+      9,
+      10,
+      11
+    ],
+    "post_frequency_daily": 1.43,
+    "languages": [
+      "en",
+      "de"
+    ],
+    "categories": [
+      "threat_intel",
+      "infra_scan"
+    ],
+    "content_tags": [
+      "threat_intel",
+      "infra_scan"
+    ],
+    "risk_score": 0.87,
+    "relationships": [
+      {
+        "identity_id": "8ce5d40f-8a73-401a-83f7-812c5ca27eef",
+        "username": "NetHunter",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 59,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.34.31",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "social",
+        "blog"
+      ]
+    },
+    "metadata": {
+      "cluster": "cyber_op_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "8ce5d40f-8a73-401a-83f7-812c5ca27eef",
+    "username": "NetHunter",
+    "aliases": [
+      "nethunter_obs",
+      "nethunter_61"
+    ],
+    "email": "nethunter@simulated.research",
+    "pgp_fingerprint": "B2C3D4E5F6A78901ABCDEF1234567890ABCDEF23",
+    "crypto_wallets": [
+      "0x8b3d02784fc8a8e1e4eb2435ad84e0ad052f27b8"
+    ],
+    "wallet_addresses": [
+      "0x8b3d02784fc8a8e1e4eb2435ad84e0ad052f27b8"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Behavioral analysis indicates coordinated observation patterns.",
+      "Network metadata shows overlapping origin points during active windows.",
+      "Evidence correlation points to sustained operational interest."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.15,
+      "punctuation_density": 0.125,
+      "vocabulary_diversity": 0.89
+    },
+    "posting_timestamps": [
+      "2026-07-18T20:06:30Z",
+      "2026-07-19T19:48:30Z",
+      "2026-07-20T17:39:30Z",
+      "2026-07-27T18:51:30Z",
+      "2026-08-05T20:19:30Z",
+      "2026-08-10T18:39:30Z",
+      "2026-08-12T20:16:30Z",
+      "2026-08-16T19:20:30Z",
+      "2026-08-19T19:08:30Z",
+      "2026-08-21T19:34:30Z",
+      "2026-08-22T19:35:30Z",
+      "2026-08-25T18:41:30Z",
+      "2026-08-29T19:07:30Z",
+      "2026-08-29T19:16:30Z",
+      "2026-08-29T19:17:30Z",
+      "2026-08-30T18:18:30Z"
+    ],
+    "posting_hours": [
+      9,
+      10,
+      11
+    ],
+    "active_hours": [
+      9,
+      10,
+      11
+    ],
+    "post_frequency_daily": 1.65,
+    "languages": [
+      "en",
+      "de"
+    ],
+    "categories": [
+      "threat_intel",
+      "infra_scan"
+    ],
+    "content_tags": [
+      "threat_intel",
+      "infra_scan"
+    ],
+    "risk_score": 0.67,
+    "relationships": [
+      {
+        "identity_id": "55e39c35-f16c-4b55-8d2c-63395c5342d7",
+        "username": "CyberWatch",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 23,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.34.11",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": "cyber_op_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "e038a71c-1c5d-48e3-b2d3-8f545068dd1a",
+    "username": "GhostRunner",
+    "aliases": [
+      "ghostrunner_obs",
+      "ghostrunner_91"
+    ],
+    "email": "ghostrunner@simulated.research",
+    "pgp_fingerprint": "C3D4E5F6A7B89012ABCDEF34567890ABCDEF3456",
+    "crypto_wallets": [
+      "0x9c4e13f1f2f416b598694b0e8bba51a55db44664"
+    ],
+    "wallet_addresses": [
+      "0x9c4e13f1f2f416b598694b0e8bba51a55db44664"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Infrastructure metadata correlates with research publication cycles.",
+      "Commit windows overlap with simulated identity active hours.",
+      "Build artifacts share naming conventions across aliases."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.06,
+      "punctuation_density": 0.09,
+      "vocabulary_diversity": 0.76
+    },
+    "posting_timestamps": [
+      "2026-07-18T22:59:30Z",
+      "2026-07-22T01:33:30Z",
+      "2026-07-24T02:01:30Z",
+      "2026-07-26T00:01:30Z",
+      "2026-07-27T22:33:30Z",
+      "2026-07-28T00:32:30Z",
+      "2026-07-28T02:11:30Z",
+      "2026-07-31T00:25:30Z",
+      "2026-08-02T23:42:30Z",
+      "2026-08-03T22:37:30Z",
+      "2026-08-03T22:47:30Z",
+      "2026-08-06T00:45:30Z",
+      "2026-08-07T01:21:30Z",
+      "2026-08-14T01:03:30Z",
+      "2026-08-16T00:37:30Z",
+      "2026-08-17T00:16:30Z",
+      "2026-08-18T22:40:30Z",
+      "2026-08-20T01:29:30Z",
+      "2026-08-20T23:27:30Z",
+      "2026-08-21T23:02:30Z",
+      "2026-08-22T02:12:30Z",
+      "2026-08-24T23:22:30Z",
+      "2026-08-25T23:16:30Z",
+      "2026-08-30T01:00:30Z"
+    ],
+    "posting_hours": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "active_hours": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "post_frequency_daily": 1.47,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "categories": [
+      "dev_sec",
+      "exploit_research"
+    ],
+    "content_tags": [
+      "dev_sec",
+      "exploit_research"
+    ],
+    "risk_score": 0.84,
+    "relationships": [
+      {
+        "identity_id": "cb18ebff-dc3f-4c87-af14-16652a511f78",
+        "username": "ShadowDev",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 114,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.51.38",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "social",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": "dark_op_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "cb18ebff-dc3f-4c87-af14-16652a511f78",
+    "username": "ShadowDev",
+    "aliases": [
+      "shadowdev_obs",
+      "shadowdev_97"
+    ],
+    "email": "shadowdev@simulated.research",
+    "pgp_fingerprint": "C3D4E5F6A7B89012ABCDEF34567890ABCDEF3456",
+    "crypto_wallets": [
+      "0x9c4e131445823bb168636e9bdc605cdf6b893360"
+    ],
+    "wallet_addresses": [
+      "0x9c4e131445823bb168636e9bdc605cdf6b893360"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Infrastructure metadata correlates with research publication cycles.",
+      "Commit windows overlap with simulated identity active hours.",
+      "Development activity patterns show consistent temporal clustering."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.09,
+      "punctuation_density": 0.094,
+      "vocabulary_diversity": 0.74
+    },
+    "posting_timestamps": [
+      "2026-07-18T23:36:30Z",
+      "2026-07-18T23:41:30Z",
+      "2026-07-19T01:24:30Z",
+      "2026-07-21T23:22:30Z",
+      "2026-07-22T01:42:30Z",
+      "2026-07-25T01:41:30Z",
+      "2026-07-26T01:31:30Z",
+      "2026-07-26T02:25:30Z",
+      "2026-07-29T02:08:30Z",
+      "2026-08-03T01:27:30Z",
+      "2026-08-05T23:37:30Z",
+      "2026-08-09T00:52:30Z",
+      "2026-08-10T23:13:30Z",
+      "2026-08-12T23:05:30Z",
+      "2026-08-15T23:10:30Z",
+      "2026-08-18T01:41:30Z",
+      "2026-08-18T23:10:30Z",
+      "2026-08-20T01:53:30Z",
+      "2026-08-22T00:24:30Z",
+      "2026-08-23T22:48:30Z",
+      "2026-08-25T01:01:30Z",
+      "2026-08-26T23:29:30Z",
+      "2026-08-31T01:15:30Z",
+      "2026-08-31T01:18:30Z"
+    ],
+    "posting_hours": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "active_hours": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "post_frequency_daily": 2.6,
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "categories": [
+      "dev_sec",
+      "exploit_research"
+    ],
+    "content_tags": [
+      "dev_sec",
+      "exploit_research"
+    ],
+    "risk_score": 0.67,
+    "relationships": [
+      {
+        "identity_id": "e038a71c-1c5d-48e3-b2d3-8f545068dd1a",
+        "username": "GhostRunner",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 30,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.51.24",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": "dark_op_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "db8b9eff-f6e0-478f-94fc-5564f729433a",
+    "username": "MarketEye",
+    "aliases": [
+      "marketeye_obs",
+      "marketeye_19"
+    ],
+    "email": "marketeye@simulated.research",
+    "pgp_fingerprint": "D4E5F6A7B8C90123ABCDEF4567890ABCDEF45678",
+    "crypto_wallets": [
+      "0xad5f24a1a06765e7228a9ec7d953e47c9a575754"
+    ],
+    "wallet_addresses": [
+      "0xad5f24a1a06765e7228a9ec7d953e47c9a575754"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Quantitative patterns align with specific identity clusters.",
+      "Market behavior analysis reveals synchronized observation windows.",
+      "Volume spikes coincide with overlapping posting hours."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.51,
+      "punctuation_density": 0.169,
+      "vocabulary_diversity": 0.93
+    },
+    "posting_timestamps": [
+      "2026-07-18T12:13:30Z",
+      "2026-07-25T13:00:30Z",
+      "2026-07-25T13:24:30Z",
+      "2026-07-27T13:03:30Z",
+      "2026-07-27T13:08:30Z",
+      "2026-07-31T13:46:30Z",
+      "2026-07-31T14:35:30Z",
+      "2026-08-01T12:02:30Z",
+      "2026-08-01T12:09:30Z",
+      "2026-08-01T14:38:30Z",
+      "2026-08-08T14:11:30Z",
+      "2026-08-12T13:16:30Z",
+      "2026-08-13T13:50:30Z",
+      "2026-08-16T12:48:30Z",
+      "2026-08-17T11:46:30Z",
+      "2026-08-18T12:13:30Z",
+      "2026-08-19T13:16:30Z",
+      "2026-08-20T15:14:30Z",
+      "2026-08-24T14:10:30Z",
+      "2026-08-24T14:18:30Z",
+      "2026-08-27T11:59:30Z",
+      "2026-08-29T14:55:30Z",
+      "2026-08-30T15:12:30Z",
+      "2026-08-31T13:00:30Z",
+      "2026-08-31T14:13:30Z"
+    ],
+    "posting_hours": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "active_hours": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "post_frequency_daily": 2.52,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "market_analysis",
+      "quant_trading"
+    ],
+    "content_tags": [
+      "market_analysis",
+      "quant_trading"
+    ],
+    "risk_score": 0.8,
+    "relationships": [
+      {
+        "identity_id": "7ad36f7e-e7e4-410a-b39f-f419b370ffd8",
+        "username": "TradeSense",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 102,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.68.26",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": "fin_analyst_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "7ad36f7e-e7e4-410a-b39f-f419b370ffd8",
+    "username": "TradeSense",
+    "aliases": [
+      "tradesense_obs",
+      "tradesense_70"
+    ],
+    "email": "tradesense@simulated.research",
+    "pgp_fingerprint": "D4E5F6A7B8C90123ABCDEF4567890ABCDEF45678",
+    "crypto_wallets": [
+      "0xad5f24138699c6e49690f1ca413826b7044d134c"
+    ],
+    "wallet_addresses": [
+      "0xad5f24138699c6e49690f1ca413826b7044d134c"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Quantitative patterns align with specific identity clusters.",
+      "Cross-venue signals cluster around a shared analyst window.",
+      "Market behavior analysis reveals synchronized observation windows."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.56,
+      "punctuation_density": 0.172,
+      "vocabulary_diversity": 0.9
+    },
+    "posting_timestamps": [
+      "2026-07-19T12:54:30Z",
+      "2026-07-29T11:32:30Z",
+      "2026-07-30T12:02:30Z",
+      "2026-08-04T12:25:30Z",
+      "2026-08-04T12:52:30Z",
+      "2026-08-12T12:13:30Z",
+      "2026-08-12T13:02:30Z",
+      "2026-08-14T13:53:30Z",
+      "2026-08-15T15:25:30Z",
+      "2026-08-17T14:42:30Z",
+      "2026-08-24T11:46:30Z",
+      "2026-08-26T14:34:30Z",
+      "2026-08-28T13:40:30Z",
+      "2026-08-29T14:00:30Z"
+    ],
+    "posting_hours": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "active_hours": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "post_frequency_daily": 1.72,
+    "languages": [
+      "en",
+      "es"
+    ],
+    "categories": [
+      "market_analysis",
+      "quant_trading"
+    ],
+    "content_tags": [
+      "market_analysis",
+      "quant_trading"
+    ],
+    "risk_score": 0.66,
+    "relationships": [
+      {
+        "identity_id": "db8b9eff-f6e0-478f-94fc-5564f729433a",
+        "username": "MarketEye",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 57,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.68.17",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "blog",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": "fin_analyst_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "12fa26e6-9a06-4386-bfc6-ff541962eeca",
+    "username": "InfoSecPro",
+    "aliases": [
+      "infosecpro_obs",
+      "infosecpro_77"
+    ],
+    "email": "infosecpro@simulated.research",
+    "pgp_fingerprint": "E5F6A7B8C9D01234ABCDEF567890ABCDEF567890",
+    "crypto_wallets": [
+      "0xbe603567a6c0141cdd0d7089770424e70acb4063"
+    ],
+    "wallet_addresses": [
+      "0xbe603567a6c0141cdd0d7089770424e70acb4063"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Defensive telemetry maps to overlapping identity windows.",
+      "Evidence suggests sustained monitoring activity across platforms.",
+      "Control-plane observations remain within authorized research bounds."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.02,
+      "punctuation_density": 0.128,
+      "vocabulary_diversity": 0.88
+    },
+    "posting_timestamps": [
+      "2026-07-20T17:59:30Z",
+      "2026-07-24T17:35:30Z",
+      "2026-07-25T16:35:30Z",
+      "2026-07-27T16:01:30Z",
+      "2026-07-30T16:38:30Z",
+      "2026-08-01T16:06:30Z",
+      "2026-08-01T17:09:30Z",
+      "2026-08-05T16:00:30Z",
+      "2026-08-05T16:31:30Z",
+      "2026-08-05T19:10:30Z",
+      "2026-08-11T17:46:30Z",
+      "2026-08-12T15:35:30Z",
+      "2026-08-16T15:55:30Z",
+      "2026-08-16T16:16:30Z",
+      "2026-08-22T15:56:30Z",
+      "2026-08-22T16:18:30Z",
+      "2026-08-25T16:24:30Z",
+      "2026-08-27T16:41:30Z",
+      "2026-08-29T17:58:30Z",
+      "2026-08-31T16:44:30Z"
+    ],
+    "posting_hours": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "active_hours": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "post_frequency_daily": 3.69,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "security",
+      "vuln_research"
+    ],
+    "content_tags": [
+      "security",
+      "vuln_research"
+    ],
+    "risk_score": 0.83,
+    "relationships": [
+      {
+        "identity_id": "14631507-3659-41ff-8d88-e09065232500",
+        "username": "SecAnalyst",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 16,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.85.14",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "blog",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": "security_research_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "14631507-3659-41ff-8d88-e09065232500",
+    "username": "SecAnalyst",
+    "aliases": [
+      "secanalyst_obs",
+      "secanalyst_71"
+    ],
+    "email": "secanalyst@simulated.research",
+    "pgp_fingerprint": "E5F6A7B8C9D01234ABCDEF567890ABCDEF567890",
+    "crypto_wallets": [
+      "0xbe60357f5baddd65bcd01aefb61ad7be0c45289c"
+    ],
+    "wallet_addresses": [
+      "0xbe60357f5baddd65bcd01aefb61ad7be0c45289c"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Defensive telemetry maps to overlapping identity windows.",
+      "Analysis of infrastructure patterns shows consistent metadata alignment.",
+      "Security assessment reveals recurring behavioral signatures."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.92,
+      "punctuation_density": 0.127,
+      "vocabulary_diversity": 0.87
+    },
+    "posting_timestamps": [
+      "2026-07-20T16:13:30Z",
+      "2026-07-20T17:50:30Z",
+      "2026-07-22T17:01:30Z",
+      "2026-07-24T15:37:30Z",
+      "2026-07-28T18:26:30Z",
+      "2026-07-30T16:37:30Z",
+      "2026-08-01T19:15:30Z",
+      "2026-08-02T16:47:30Z",
+      "2026-08-03T16:53:30Z",
+      "2026-08-03T18:53:30Z",
+      "2026-08-05T18:18:30Z",
+      "2026-08-07T16:54:30Z",
+      "2026-08-08T18:25:30Z",
+      "2026-08-09T17:50:30Z",
+      "2026-08-12T15:46:30Z",
+      "2026-08-12T18:06:30Z",
+      "2026-08-13T16:43:30Z",
+      "2026-08-13T17:29:30Z",
+      "2026-08-13T17:52:30Z",
+      "2026-08-15T15:36:30Z",
+      "2026-08-15T18:33:30Z",
+      "2026-08-19T16:47:30Z",
+      "2026-08-21T16:32:30Z",
+      "2026-08-23T16:57:30Z",
+      "2026-08-25T19:11:30Z",
+      "2026-08-31T18:32:30Z"
+    ],
+    "posting_hours": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "active_hours": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "post_frequency_daily": 3.89,
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "categories": [
+      "security",
+      "vuln_research"
+    ],
+    "content_tags": [
+      "security",
+      "vuln_research"
+    ],
+    "risk_score": 0.82,
+    "relationships": [
+      {
+        "identity_id": "12fa26e6-9a06-4386-bfc6-ff541962eeca",
+        "username": "InfoSecPro",
+        "confidence_score": 0.92,
+        "correlation_type": "hidden_cluster"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 52,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "192.168.85.17",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "marketplace",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": "security_research_cluster",
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "a053ec6b-af1e-4924-b158-be6d6b7e638e",
+    "username": "DataMiner",
+    "aliases": [
+      "dataminer_obs",
+      "dataminer_16"
+    ],
+    "email": "dataminer@simulated.research",
+    "pgp_fingerprint": "FC5C087AA9DF130E8E31DE462F471E27ABF6B261",
+    "crypto_wallets": [
+      "0x76f057fd1a8f5631d7aa90c3291c33d52e0d2242"
+    ],
+    "wallet_addresses": [
+      "0x76f057fd1a8f5631d7aa90c3291c33d52e0d2242"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Synthetic record quality checks completed without anomalies.",
+      "Dataset review notes remain within authorized research bounds.",
+      "Field completeness scores support demonstration use."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.65,
+      "punctuation_density": 0.058,
+      "vocabulary_diversity": 0.86
+    },
+    "posting_timestamps": [
+      "2026-07-20T04:59:30Z",
+      "2026-07-20T08:11:30Z",
+      "2026-07-20T17:35:30Z",
+      "2026-07-21T07:44:30Z",
+      "2026-07-25T07:45:30Z",
+      "2026-07-27T21:48:30Z",
+      "2026-07-29T22:01:30Z",
+      "2026-07-30T08:03:30Z",
+      "2026-08-01T18:03:30Z",
+      "2026-08-02T18:04:30Z",
+      "2026-08-03T05:27:30Z",
+      "2026-08-04T04:33:30Z",
+      "2026-08-05T04:43:30Z",
+      "2026-08-09T00:55:30Z",
+      "2026-08-11T17:52:30Z",
+      "2026-08-11T22:07:30Z",
+      "2026-08-14T07:50:30Z",
+      "2026-08-17T08:28:30Z",
+      "2026-08-17T18:09:30Z",
+      "2026-08-18T18:02:30Z",
+      "2026-08-22T18:26:30Z",
+      "2026-08-23T05:22:30Z",
+      "2026-08-24T18:08:30Z",
+      "2026-08-25T22:03:30Z",
+      "2026-08-26T04:36:30Z",
+      "2026-08-26T21:52:30Z",
+      "2026-08-27T05:25:30Z",
+      "2026-08-28T07:55:30Z"
+    ],
+    "posting_hours": [
+      0,
+      4,
+      7,
+      11,
+      21
+    ],
+    "active_hours": [
+      0,
+      4,
+      7,
+      11,
+      21
+    ],
+    "post_frequency_daily": 3.89,
+    "languages": [
+      "ru",
+      "de"
+    ],
+    "categories": [
+      "data_review",
+      "metadata_research",
+      "network_study"
+    ],
+    "content_tags": [
+      "data_review",
+      "metadata_research"
+    ],
+    "risk_score": 0.24,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 91,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.191.17.122",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "development",
+        "blog"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "8d5c3c54-23f7-45b9-8249-20dcd65db1e2",
+    "username": "CloudWalker",
+    "aliases": [
+      "cloudwalker_obs",
+      "cloudwalker_14"
+    ],
+    "email": "cloudwalker@simulated.research",
+    "pgp_fingerprint": "D5814368C9A89AB04CE522A1BF1867245F9E2C01",
+    "crypto_wallets": [
+      "0x76963851a9843f03fcc41762838a56b671566a46"
+    ],
+    "wallet_addresses": [
+      "0x76963851a9843f03fcc41762838a56b671566a46"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Synthetic record quality checks completed without anomalies.",
+      "Dataset review notes remain within authorized research bounds.",
+      "Field completeness scores support demonstration use."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.4,
+      "punctuation_density": 0.086,
+      "vocabulary_diversity": 0.81
+    },
+    "posting_timestamps": [
+      "2026-07-19T06:49:30Z",
+      "2026-07-21T19:15:30Z",
+      "2026-07-22T07:10:30Z",
+      "2026-07-22T10:01:30Z",
+      "2026-07-22T15:21:30Z",
+      "2026-07-26T07:02:30Z",
+      "2026-08-03T14:40:30Z",
+      "2026-08-04T00:00:30Z",
+      "2026-08-09T07:26:30Z",
+      "2026-08-12T10:02:30Z",
+      "2026-08-14T07:27:30Z",
+      "2026-08-19T15:08:30Z",
+      "2026-08-19T18:52:30Z",
+      "2026-08-23T00:19:30Z",
+      "2026-08-24T06:58:30Z",
+      "2026-08-25T19:14:30Z",
+      "2026-08-27T06:50:30Z"
+    ],
+    "posting_hours": [
+      5,
+      10,
+      14,
+      19,
+      22
+    ],
+    "active_hours": [
+      5,
+      10,
+      14,
+      19,
+      22
+    ],
+    "post_frequency_daily": 0.7,
+    "languages": [
+      "de",
+      "en"
+    ],
+    "categories": [
+      "data_review",
+      "network_study",
+      "metadata_research"
+    ],
+    "content_tags": [
+      "data_review",
+      "network_study"
+    ],
+    "risk_score": 0.24,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 51,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.102.223.80",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "5173dfd3-41e7-444c-a3a5-c2016c4d80d5",
+    "username": "SignalTracer",
+    "aliases": [
+      "signaltracer_obs",
+      "signaltracer_20"
+    ],
+    "email": "signaltracer@simulated.research",
+    "pgp_fingerprint": "7CA57201E5B823778254659CA11A4BAED5925FB6",
+    "crypto_wallets": [
+      "0x9f46cdadba8a65523f7321d1cde05c262dcc276a"
+    ],
+    "wallet_addresses": [
+      "0x9f46cdadba8a65523f7321d1cde05c262dcc276a"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Routing metadata is generated, not observed.",
+      "Gateway tags are mock values for demonstration.",
+      "Network study notes describe simulated topology only."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.59,
+      "punctuation_density": 0.096,
+      "vocabulary_diversity": 0.88
+    },
+    "posting_timestamps": [
+      "2026-07-23T21:33:30Z",
+      "2026-07-30T19:37:30Z",
+      "2026-08-01T14:55:30Z",
+      "2026-08-04T21:32:30Z",
+      "2026-08-05T19:38:30Z",
+      "2026-08-07T05:57:30Z",
+      "2026-08-08T20:06:30Z",
+      "2026-08-09T22:04:30Z",
+      "2026-08-13T09:46:30Z",
+      "2026-08-15T21:49:30Z",
+      "2026-08-17T09:34:30Z",
+      "2026-08-19T06:22:30Z",
+      "2026-08-21T15:02:30Z",
+      "2026-08-22T20:28:30Z",
+      "2026-08-23T10:02:30Z",
+      "2026-08-24T15:25:30Z",
+      "2026-08-25T05:36:30Z",
+      "2026-08-25T14:40:30Z",
+      "2026-08-26T15:16:30Z",
+      "2026-08-28T09:58:30Z",
+      "2026-08-30T14:31:30Z"
+    ],
+    "posting_hours": [
+      7,
+      9,
+      14,
+      19,
+      23
+    ],
+    "active_hours": [
+      7,
+      9,
+      14,
+      19,
+      23
+    ],
+    "post_frequency_daily": 0.57,
+    "languages": [
+      "ja",
+      "fr"
+    ],
+    "categories": [
+      "network_study",
+      "behavioral_analysis",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.22,
+    "relationships": [
+      {
+        "identity_id": "71a9c465-6e33-4975-9461-de269c3e4f1c",
+        "username": "PacketDive",
+        "confidence_score": 0.66,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 42,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.214.50.95",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "forum",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "bd49d467-7068-4296-a8bd-3012e10d47ad",
+    "username": "PatternHunter",
+    "aliases": [
+      "patternhunter_obs",
+      "patternhunter_13"
+    ],
+    "email": "patternhunter@simulated.research",
+    "pgp_fingerprint": "06C71E908326936A1F188F867AF40C5BACB508D2",
+    "crypto_wallets": [
+      "0xc7bac1c74030e8f84c35cd515ebe6f77e8cb19d8"
+    ],
+    "wallet_addresses": [
+      "0xc7bac1c74030e8f84c35cd515ebe6f77e8cb19d8"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Field completeness scores support demonstration use.",
+      "Synthetic record quality checks completed without anomalies.",
+      "Dataset review notes remain within authorized research bounds."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.07,
+      "punctuation_density": 0.075,
+      "vocabulary_diversity": 0.76
+    },
+    "posting_timestamps": [
+      "2026-07-21T20:07:30Z",
+      "2026-07-25T01:47:30Z",
+      "2026-07-31T02:29:30Z",
+      "2026-08-03T20:07:30Z",
+      "2026-08-04T02:54:30Z",
+      "2026-08-04T03:22:30Z",
+      "2026-08-06T19:49:30Z",
+      "2026-08-07T08:28:30Z",
+      "2026-08-15T02:23:30Z",
+      "2026-08-22T07:47:30Z",
+      "2026-08-23T08:07:30Z",
+      "2026-08-27T19:07:30Z",
+      "2026-08-28T01:41:30Z"
+    ],
+    "posting_hours": [
+      2,
+      3,
+      9,
+      10,
+      21
+    ],
+    "active_hours": [
+      2,
+      3,
+      9,
+      10,
+      21
+    ],
+    "post_frequency_daily": 3.07,
+    "languages": [
+      "de",
+      "fr"
+    ],
+    "categories": [
+      "data_review",
+      "pattern_recognition",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "data_review",
+      "pattern_recognition"
+    ],
+    "risk_score": 0.22,
+    "relationships": [
+      {
+        "identity_id": "b7ba46c0-f8eb-4d96-a6cc-69404541c20d",
+        "username": "HashOrbit",
+        "confidence_score": 0.75,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 78,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.187.223.234",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "social",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "57352804-9cb8-438c-8775-9004f696d955",
+    "username": "CodeSleuth",
+    "aliases": [
+      "codesleuth_obs",
+      "codesleuth_61"
+    ],
+    "email": "codesleuth@simulated.research",
+    "pgp_fingerprint": "F4E71D7E71AD5518EDBEAC8132C085C8914FB8CD",
+    "crypto_wallets": [
+      "0x1fa7a5eca2f6e01225b5fed4a824882f2ab9d9d0"
+    ],
+    "wallet_addresses": [
+      "0x1fa7a5eca2f6e01225b5fed4a824882f2ab9d9d0"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Metadata research entries are fully synthetic.",
+      "User-agent strings identify the research client.",
+      "Origin ranges are private simulated address space."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.81,
+      "punctuation_density": 0.055,
+      "vocabulary_diversity": 0.91
+    },
+    "posting_timestamps": [
+      "2026-07-23T11:15:30Z",
+      "2026-07-24T11:12:30Z",
+      "2026-07-24T23:10:30Z",
+      "2026-07-25T21:27:30Z",
+      "2026-07-26T21:18:30Z",
+      "2026-07-28T04:10:30Z",
+      "2026-07-29T03:36:30Z",
+      "2026-08-02T10:34:30Z",
+      "2026-08-02T23:09:30Z",
+      "2026-08-02T23:17:30Z",
+      "2026-08-03T11:00:30Z",
+      "2026-08-06T21:28:30Z",
+      "2026-08-11T21:05:30Z",
+      "2026-08-12T11:29:30Z",
+      "2026-08-13T10:35:30Z",
+      "2026-08-14T11:15:30Z",
+      "2026-08-15T20:42:30Z",
+      "2026-08-16T11:23:30Z",
+      "2026-08-21T10:58:30Z",
+      "2026-08-21T20:31:30Z",
+      "2026-08-23T04:27:30Z",
+      "2026-08-23T20:58:30Z",
+      "2026-08-25T11:22:30Z",
+      "2026-08-26T10:58:30Z",
+      "2026-08-28T04:20:30Z",
+      "2026-08-28T20:59:30Z"
+    ],
+    "posting_hours": [
+      1,
+      6,
+      8,
+      18,
+      20
+    ],
+    "active_hours": [
+      1,
+      6,
+      8,
+      18,
+      20
+    ],
+    "post_frequency_daily": 0.68,
+    "languages": [
+      "ja",
+      "ru"
+    ],
+    "categories": [
+      "metadata_research",
+      "network_study",
+      "data_review"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "network_study"
+    ],
+    "risk_score": 0.25,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 86,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.165.245.78",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "forum",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "71a9c465-6e33-4975-9461-de269c3e4f1c",
+    "username": "PacketDive",
+    "aliases": [
+      "packetdive_obs",
+      "packetdive_48"
+    ],
+    "email": "packetdive@simulated.research",
+    "pgp_fingerprint": "D99215F8529600BC82E2E569D98879705164EDA9",
+    "crypto_wallets": [
+      "0x4af93078bc6d39b37663897dbb88f76f788adac4"
+    ],
+    "wallet_addresses": [
+      "0x4af93078bc6d39b37663897dbb88f76f788adac4"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Session-length estimates are mock research values.",
+      "Response latency bins are generated for scoring tests.",
+      "Behavioral analysis uses authorized synthetic sessions."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.21,
+      "punctuation_density": 0.156,
+      "vocabulary_diversity": 0.84
+    },
+    "posting_timestamps": [
+      "2026-07-22T22:27:30Z",
+      "2026-07-25T22:15:30Z",
+      "2026-07-27T21:22:30Z",
+      "2026-07-28T20:31:30Z",
+      "2026-07-28T22:32:30Z",
+      "2026-08-01T13:49:30Z",
+      "2026-08-01T22:18:30Z",
+      "2026-08-01T22:47:30Z",
+      "2026-08-03T20:43:30Z",
+      "2026-08-06T14:19:30Z",
+      "2026-08-06T20:41:30Z",
+      "2026-08-13T22:32:30Z",
+      "2026-08-13T23:08:30Z",
+      "2026-08-13T23:30:30Z",
+      "2026-08-19T21:10:30Z",
+      "2026-08-20T13:34:30Z",
+      "2026-08-20T22:37:30Z",
+      "2026-08-21T13:49:30Z",
+      "2026-08-22T21:28:30Z",
+      "2026-08-23T22:55:30Z",
+      "2026-08-25T11:43:30Z",
+      "2026-08-25T14:09:30Z",
+      "2026-08-26T12:16:30Z",
+      "2026-08-28T12:16:30Z"
+    ],
+    "posting_hours": [
+      6,
+      7,
+      8,
+      15,
+      17
+    ],
+    "active_hours": [
+      6,
+      7,
+      8,
+      15,
+      17
+    ],
+    "post_frequency_daily": 2.49,
+    "languages": [
+      "de",
+      "es"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "network_study",
+      "pattern_recognition"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "network_study"
+    ],
+    "risk_score": 0.23,
+    "relationships": [
+      {
+        "identity_id": "5173dfd3-41e7-444c-a3a5-c2016c4d80d5",
+        "username": "SignalTracer",
+        "confidence_score": 0.66,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 28,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.123.90.144",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "bb227b4c-28cb-4394-a863-51c71539a217",
+    "username": "LogDrill",
+    "aliases": [
+      "logdrill_obs",
+      "logdrill_86"
+    ],
+    "email": "logdrill@simulated.research",
+    "pgp_fingerprint": "4C5BAB054A39A66561F7E0674599453A72AEECBA",
+    "crypto_wallets": [
+      "0xf53f77f5beccdca9c885e1de382d7ab7e702698a"
+    ],
+    "wallet_addresses": [
+      "0xf53f77f5beccdca9c885e1de382d7ab7e702698a"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Synthetic record quality checks completed without anomalies.",
+      "Dataset review notes remain within authorized research bounds.",
+      "Field completeness scores support demonstration use."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.7,
+      "punctuation_density": 0.057,
+      "vocabulary_diversity": 0.72
+    },
+    "posting_timestamps": [
+      "2026-07-19T06:03:30Z",
+      "2026-07-19T06:22:30Z",
+      "2026-07-20T05:15:30Z",
+      "2026-07-20T16:51:30Z",
+      "2026-07-21T17:07:30Z",
+      "2026-07-21T20:23:30Z",
+      "2026-07-26T19:54:30Z",
+      "2026-07-28T16:38:30Z",
+      "2026-07-29T20:44:30Z",
+      "2026-08-07T16:35:30Z",
+      "2026-08-07T17:25:30Z",
+      "2026-08-09T21:13:30Z",
+      "2026-08-13T20:38:30Z",
+      "2026-08-17T06:17:30Z",
+      "2026-08-17T21:01:30Z",
+      "2026-08-18T04:42:30Z",
+      "2026-08-20T05:28:30Z",
+      "2026-08-20T06:05:30Z",
+      "2026-08-20T20:41:30Z",
+      "2026-08-28T04:52:30Z",
+      "2026-08-28T20:58:30Z",
+      "2026-08-29T16:52:30Z",
+      "2026-08-29T17:02:30Z",
+      "2026-08-30T20:01:30Z",
+      "2026-08-30T21:17:30Z"
+    ],
+    "posting_hours": [
+      0,
+      8,
+      9,
+      12,
+      23
+    ],
+    "active_hours": [
+      0,
+      8,
+      9,
+      12,
+      23
+    ],
+    "post_frequency_daily": 3.2,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "categories": [
+      "data_review",
+      "behavioral_analysis",
+      "network_study"
+    ],
+    "content_tags": [
+      "data_review",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.07,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 119,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.16.240.229",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "blog",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "2b5f8224-b3c3-4766-8a64-82caaf07030c",
+    "username": "TracePath",
+    "aliases": [
+      "tracepath_obs",
+      "tracepath_91"
+    ],
+    "email": "tracepath@simulated.research",
+    "pgp_fingerprint": "0FEEA67FFAC5626C7D4BCE8F8233AED1B34A9D3C",
+    "crypto_wallets": [
+      "0xb87d5f0ef1f7393e8c6854871f7de569324e9625"
+    ],
+    "wallet_addresses": [
+      "0xb87d5f0ef1f7393e8c6854871f7de569324e9625"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Gateway tags are mock values for demonstration.",
+      "Network study notes describe simulated topology only.",
+      "Routing metadata is generated, not observed."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.87,
+      "punctuation_density": 0.173,
+      "vocabulary_diversity": 0.94
+    },
+    "posting_timestamps": [
+      "2026-07-18T11:39:30Z",
+      "2026-07-19T21:49:30Z",
+      "2026-07-20T10:32:30Z",
+      "2026-07-21T22:25:30Z",
+      "2026-07-22T17:26:30Z",
+      "2026-07-27T12:27:30Z",
+      "2026-07-29T13:38:30Z",
+      "2026-07-29T13:56:30Z",
+      "2026-07-30T12:07:30Z",
+      "2026-08-01T12:29:30Z",
+      "2026-08-05T22:29:30Z",
+      "2026-08-06T11:54:30Z",
+      "2026-08-06T12:06:30Z",
+      "2026-08-06T22:07:30Z",
+      "2026-08-09T13:40:30Z",
+      "2026-08-13T21:58:30Z",
+      "2026-08-16T16:51:30Z",
+      "2026-08-16T17:11:30Z",
+      "2026-08-20T10:49:30Z",
+      "2026-08-20T21:32:30Z",
+      "2026-08-22T22:17:30Z",
+      "2026-08-25T11:21:30Z",
+      "2026-08-27T21:42:30Z",
+      "2026-08-28T10:50:30Z",
+      "2026-08-28T11:28:30Z",
+      "2026-08-31T10:55:30Z",
+      "2026-08-31T12:22:30Z"
+    ],
+    "posting_hours": [
+      7,
+      12,
+      15,
+      17,
+      18
+    ],
+    "active_hours": [
+      7,
+      12,
+      15,
+      17,
+      18
+    ],
+    "post_frequency_daily": 0.53,
+    "languages": [
+      "zh",
+      "ja"
+    ],
+    "categories": [
+      "network_study",
+      "pattern_recognition",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "pattern_recognition"
+    ],
+    "risk_score": 0.29,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 36,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.126.118.44",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "social",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "889a61cc-b9aa-4745-9252-5b68a134edae",
+    "username": "GridSearch",
+    "aliases": [
+      "gridsearch_obs",
+      "gridsearch_20"
+    ],
+    "email": "gridsearch@simulated.research",
+    "pgp_fingerprint": "3DE701EE90E5F9CB6123D6E5C2FB8F06D5CF6C04",
+    "crypto_wallets": [
+      "0xf75f6aa19cb12bab51045422786051956461eef9"
+    ],
+    "wallet_addresses": [
+      "0xf75f6aa19cb12bab51045422786051956461eef9"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Session-length estimates are mock research values.",
+      "Response latency bins are generated for scoring tests."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.58,
+      "punctuation_density": 0.075,
+      "vocabulary_diversity": 0.7
+    },
+    "posting_timestamps": [
+      "2026-07-18T16:54:30Z",
+      "2026-07-19T00:00:30Z",
+      "2026-07-19T08:29:30Z",
+      "2026-07-22T21:15:30Z",
+      "2026-07-23T16:39:30Z",
+      "2026-07-25T08:19:30Z",
+      "2026-07-25T16:56:30Z",
+      "2026-07-28T07:50:30Z",
+      "2026-07-30T16:56:30Z",
+      "2026-08-03T00:02:30Z",
+      "2026-08-03T08:00:30Z",
+      "2026-08-04T08:22:30Z",
+      "2026-08-04T17:26:30Z",
+      "2026-08-05T17:22:30Z",
+      "2026-08-10T17:09:30Z",
+      "2026-08-11T20:43:30Z",
+      "2026-08-12T00:05:30Z",
+      "2026-08-12T20:52:30Z",
+      "2026-08-14T00:38:30Z",
+      "2026-08-14T17:07:30Z",
+      "2026-08-15T23:45:30Z",
+      "2026-08-16T21:06:30Z",
+      "2026-08-24T08:18:30Z",
+      "2026-08-26T00:11:30Z",
+      "2026-08-29T20:46:30Z",
+      "2026-08-31T17:09:30Z"
+    ],
+    "posting_hours": [
+      4,
+      5,
+      8,
+      12,
+      21
+    ],
+    "active_hours": [
+      4,
+      5,
+      8,
+      12,
+      21
+    ],
+    "post_frequency_daily": 0.88,
+    "languages": [
+      "de",
+      "ja"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "general_analysis",
+      "data_review"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "general_analysis"
+    ],
+    "risk_score": 0.16,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 46,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.201.20.93",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "blog",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "4b1e5f17-a520-4456-9bab-dbb4c74280e5",
+    "username": "NetworkScan",
+    "aliases": [
+      "networkscan_obs",
+      "networkscan_54"
+    ],
+    "email": "networkscan@simulated.research",
+    "pgp_fingerprint": "F604889976C985016F1F2473777B54C1DAA2F322",
+    "crypto_wallets": [
+      "0x8f362a609396b3cc11d2574d8a9995d9db491214"
+    ],
+    "wallet_addresses": [
+      "0x8f362a609396b3cc11d2574d8a9995d9db491214"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Response latency bins are generated for scoring tests.",
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Session-length estimates are mock research values."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.56,
+      "punctuation_density": 0.108,
+      "vocabulary_diversity": 0.67
+    },
+    "posting_timestamps": [
+      "2026-07-19T13:04:30Z",
+      "2026-07-21T13:04:30Z",
+      "2026-07-22T00:11:30Z",
+      "2026-07-31T06:58:30Z",
+      "2026-08-02T06:43:30Z",
+      "2026-08-03T07:27:30Z",
+      "2026-08-03T13:20:30Z",
+      "2026-08-07T06:58:30Z",
+      "2026-08-08T06:38:30Z",
+      "2026-08-10T00:59:30Z",
+      "2026-08-13T23:41:30Z",
+      "2026-08-14T06:38:30Z",
+      "2026-08-14T23:56:30Z",
+      "2026-08-17T18:28:30Z",
+      "2026-08-18T13:24:30Z",
+      "2026-08-23T23:38:30Z",
+      "2026-08-24T00:10:30Z",
+      "2026-08-24T07:23:30Z",
+      "2026-08-26T07:29:30Z",
+      "2026-08-29T12:56:30Z",
+      "2026-08-29T13:14:30Z"
+    ],
+    "posting_hours": [
+      4,
+      5,
+      11,
+      16,
+      22
+    ],
+    "active_hours": [
+      4,
+      5,
+      11,
+      16,
+      22
+    ],
+    "post_frequency_daily": 3.52,
+    "languages": [
+      "fr",
+      "ja"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "network_study",
+      "pattern_recognition"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "network_study"
+    ],
+    "risk_score": 0.29,
+    "relationships": [
+      {
+        "identity_id": "afffa9f7-2190-4c34-9504-0b7440b1b302",
+        "username": "WaveHunter",
+        "confidence_score": 0.64,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 26,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.178.236.166",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "blog",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "f9689d23-3669-44d2-942f-b656a6ac86f6",
+    "username": "DeepTrace",
+    "aliases": [
+      "deeptrace_obs",
+      "deeptrace_24"
+    ],
+    "email": "deeptrace@simulated.research",
+    "pgp_fingerprint": "223305485B44DFA1FCEFD2D3BDCA79467AE184E5",
+    "crypto_wallets": [
+      "0xf50cbb7a5183634d59975a01c71d70f3b2a2e4a4"
+    ],
+    "wallet_addresses": [
+      "0xf50cbb7a5183634d59975a01c71d70f3b2a2e4a4"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Metadata research entries are fully synthetic.",
+      "Origin ranges are private simulated address space.",
+      "User-agent strings identify the research client."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.09,
+      "punctuation_density": 0.163,
+      "vocabulary_diversity": 0.75
+    },
+    "posting_timestamps": [
+      "2026-07-19T03:36:30Z",
+      "2026-07-19T08:35:30Z",
+      "2026-07-19T09:30:30Z",
+      "2026-07-20T00:26:30Z",
+      "2026-07-20T18:17:30Z",
+      "2026-07-22T03:40:30Z",
+      "2026-07-24T00:02:30Z",
+      "2026-07-24T17:41:30Z",
+      "2026-07-27T07:52:30Z",
+      "2026-07-29T07:58:30Z",
+      "2026-07-29T08:30:30Z",
+      "2026-08-07T18:03:30Z",
+      "2026-08-07T23:49:30Z",
+      "2026-08-08T18:22:30Z",
+      "2026-08-09T23:50:30Z",
+      "2026-08-12T00:15:30Z",
+      "2026-08-15T04:15:30Z",
+      "2026-08-16T09:06:30Z",
+      "2026-08-17T09:25:30Z",
+      "2026-08-19T03:33:30Z",
+      "2026-08-19T09:12:30Z",
+      "2026-08-22T08:51:30Z",
+      "2026-08-23T09:26:30Z",
+      "2026-08-24T07:44:30Z",
+      "2026-08-24T08:46:30Z",
+      "2026-08-25T23:42:30Z",
+      "2026-08-26T04:10:30Z",
+      "2026-08-31T17:38:30Z"
+    ],
+    "posting_hours": [
+      1,
+      5,
+      11,
+      20,
+      21
+    ],
+    "active_hours": [
+      1,
+      5,
+      11,
+      20,
+      21
+    ],
+    "post_frequency_daily": 1.34,
+    "languages": [
+      "fr",
+      "zh"
+    ],
+    "categories": [
+      "metadata_research",
+      "behavioral_analysis",
+      "network_study"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.08,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 96,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.25.1.55",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "social",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "aa9c7709-e61d-4306-ac36-18b492bc41cb",
+    "username": "CipherKey",
+    "aliases": [
+      "cipherkey_obs",
+      "cipherkey_99"
+    ],
+    "email": "cipherkey@simulated.research",
+    "pgp_fingerprint": "5ACFC01400C8A86B1894483C86ADA1BBD016794B",
+    "crypto_wallets": [
+      "0xb1bb2f8cb22c4ec0c41b9175795419b380d3762e"
+    ],
+    "wallet_addresses": [
+      "0xb1bb2f8cb22c4ec0c41b9175795419b380d3762e"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Field completeness scores support demonstration use.",
+      "Dataset review notes remain within authorized research bounds.",
+      "Synthetic record quality checks completed without anomalies."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.85,
+      "punctuation_density": 0.187,
+      "vocabulary_diversity": 0.71
+    },
+    "posting_timestamps": [
+      "2026-07-23T04:09:30Z",
+      "2026-07-28T12:21:30Z",
+      "2026-07-29T12:04:30Z",
+      "2026-07-30T04:05:30Z",
+      "2026-07-31T11:44:30Z",
+      "2026-08-01T04:21:30Z",
+      "2026-08-02T08:53:30Z",
+      "2026-08-12T06:15:30Z",
+      "2026-08-13T04:17:30Z",
+      "2026-08-13T05:40:30Z",
+      "2026-08-13T09:10:30Z",
+      "2026-08-15T04:28:30Z",
+      "2026-08-17T06:04:30Z",
+      "2026-08-17T06:08:30Z",
+      "2026-08-26T06:01:30Z",
+      "2026-08-27T06:35:30Z",
+      "2026-08-31T06:36:30Z",
+      "2026-08-31T07:29:30Z",
+      "2026-08-31T09:18:30Z"
+    ],
+    "posting_hours": [
+      1,
+      17,
+      20,
+      22,
+      23
+    ],
+    "active_hours": [
+      1,
+      17,
+      20,
+      22,
+      23
+    ],
+    "post_frequency_daily": 3.63,
+    "languages": [
+      "fr",
+      "es"
+    ],
+    "categories": [
+      "data_review",
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "data_review",
+      "network_study"
+    ],
+    "risk_score": 0.36,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 73,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.147.96.31",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "blog"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "2707fec6-4b3c-4628-988e-2355f018b619",
+    "username": "MetaScan",
+    "aliases": [
+      "metascan_obs",
+      "metascan_12"
+    ],
+    "email": "metascan@simulated.research",
+    "pgp_fingerprint": "90A24DE6D573F2C117515C77D1C4B93D2BF604D2",
+    "crypto_wallets": [
+      "0xfd8811c10c336af19e1f3ac1dc1f0e6b7665e472"
+    ],
+    "wallet_addresses": [
+      "0xfd8811c10c336af19e1f3ac1dc1f0e6b7665e472"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Origin ranges are private simulated address space.",
+      "Metadata research entries are fully synthetic.",
+      "User-agent strings identify the research client."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.36,
+      "punctuation_density": 0.092,
+      "vocabulary_diversity": 0.65
+    },
+    "posting_timestamps": [
+      "2026-07-18T13:32:30Z",
+      "2026-07-18T13:54:30Z",
+      "2026-07-25T13:39:30Z",
+      "2026-07-25T20:20:30Z",
+      "2026-07-25T21:45:30Z",
+      "2026-07-26T09:10:30Z",
+      "2026-07-26T19:54:30Z",
+      "2026-07-31T13:32:30Z",
+      "2026-08-01T08:40:30Z",
+      "2026-08-01T09:08:30Z",
+      "2026-08-07T13:31:30Z",
+      "2026-08-07T14:19:30Z",
+      "2026-08-12T19:59:30Z",
+      "2026-08-14T21:39:30Z",
+      "2026-08-16T13:56:30Z",
+      "2026-08-17T09:16:30Z",
+      "2026-08-17T21:33:30Z",
+      "2026-08-19T09:56:30Z",
+      "2026-08-20T20:15:30Z",
+      "2026-08-25T19:48:30Z",
+      "2026-08-28T19:54:30Z",
+      "2026-08-29T22:27:30Z",
+      "2026-08-30T13:52:30Z"
+    ],
+    "posting_hours": [
+      7,
+      9,
+      15,
+      19,
+      20
+    ],
+    "active_hours": [
+      7,
+      9,
+      15,
+      19,
+      20
+    ],
+    "post_frequency_daily": 2.34,
+    "languages": [
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "metadata_research",
+      "network_study",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "network_study"
+    ],
+    "risk_score": 0.12,
+    "relationships": [
+      {
+        "identity_id": "afffa9f7-2190-4c34-9504-0b7440b1b302",
+        "username": "WaveHunter",
+        "confidence_score": 0.73,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 15,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.227.205.135",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "blog",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "f72a874c-b4c9-4487-a37c-641248dfcb52",
+    "username": "DataDrift",
+    "aliases": [
+      "datadrift_obs",
+      "datadrift_85"
+    ],
+    "email": "datadrift@simulated.research",
+    "pgp_fingerprint": "02B21851BA955FB6A75B8E95AD6B420B9DC925C9",
+    "crypto_wallets": [
+      "0xa175155afdab503b5cb07626e56dc9c37c00415e"
+    ],
+    "wallet_addresses": [
+      "0xa175155afdab503b5cb07626e56dc9c37c00415e"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "User-agent strings identify the research client.",
+      "Metadata research entries are fully synthetic.",
+      "Origin ranges are private simulated address space."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.03,
+      "punctuation_density": 0.115,
+      "vocabulary_diversity": 0.83
+    },
+    "posting_timestamps": [
+      "2026-07-18T05:44:30Z",
+      "2026-07-19T03:25:30Z",
+      "2026-07-20T06:00:30Z",
+      "2026-07-20T18:39:30Z",
+      "2026-07-20T19:25:30Z",
+      "2026-07-21T06:06:30Z",
+      "2026-07-26T05:37:30Z",
+      "2026-07-28T11:42:30Z",
+      "2026-07-28T18:48:30Z",
+      "2026-08-01T00:27:30Z",
+      "2026-08-03T12:14:30Z",
+      "2026-08-04T03:14:30Z",
+      "2026-08-06T11:59:30Z",
+      "2026-08-07T19:19:30Z",
+      "2026-08-09T03:03:30Z",
+      "2026-08-13T19:15:30Z",
+      "2026-08-14T03:00:30Z",
+      "2026-08-17T18:54:30Z",
+      "2026-08-18T23:50:30Z",
+      "2026-08-20T03:29:30Z",
+      "2026-08-20T18:34:30Z",
+      "2026-08-24T18:40:30Z",
+      "2026-08-26T03:05:30Z",
+      "2026-08-26T18:38:30Z",
+      "2026-08-28T23:42:30Z"
+    ],
+    "posting_hours": [
+      2,
+      5,
+      10,
+      17,
+      23
+    ],
+    "active_hours": [
+      2,
+      5,
+      10,
+      17,
+      23
+    ],
+    "post_frequency_daily": 1.3,
+    "languages": [
+      "ru",
+      "ja"
+    ],
+    "categories": [
+      "metadata_research",
+      "data_review",
+      "pattern_recognition"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "data_review"
+    ],
+    "risk_score": 0.27,
+    "relationships": [
+      {
+        "identity_id": "73cce5f2-6348-4c35-88ed-0455810c114e",
+        "username": "SyncFlow",
+        "confidence_score": 0.67,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 22,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.112.41.14",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "development",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "0c8a811e-1d3c-4d3f-9088-2b0ec349b23a",
+    "username": "StreamFlow",
+    "aliases": [
+      "streamflow_obs",
+      "streamflow_11"
+    ],
+    "email": "streamflow@simulated.research",
+    "pgp_fingerprint": "46D0989F2F7F23301A3D295BC188D8E0B9C1299F",
+    "crypto_wallets": [
+      "0x11ccdee4a97269a66eb07455c4ddaf34bc5b917e"
+    ],
+    "wallet_addresses": [
+      "0x11ccdee4a97269a66eb07455c4ddaf34bc5b917e"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Response latency bins are generated for scoring tests.",
+      "Session-length estimates are mock research values."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.26,
+      "punctuation_density": 0.06,
+      "vocabulary_diversity": 0.85
+    },
+    "posting_timestamps": [
+      "2026-07-18T18:12:30Z",
+      "2026-07-21T12:58:30Z",
+      "2026-07-27T14:08:30Z",
+      "2026-07-31T06:02:30Z",
+      "2026-08-02T17:32:30Z",
+      "2026-08-06T17:47:30Z",
+      "2026-08-08T12:58:30Z",
+      "2026-08-08T16:13:30Z",
+      "2026-08-17T16:13:30Z",
+      "2026-08-18T15:49:30Z",
+      "2026-08-20T12:53:30Z",
+      "2026-08-21T05:41:30Z",
+      "2026-08-21T13:43:30Z",
+      "2026-08-23T15:52:30Z",
+      "2026-08-28T16:28:30Z",
+      "2026-08-30T13:27:30Z",
+      "2026-08-30T16:07:30Z",
+      "2026-08-30T18:00:30Z"
+    ],
+    "posting_hours": [
+      11,
+      13,
+      15,
+      16,
+      23
+    ],
+    "active_hours": [
+      11,
+      13,
+      15,
+      16,
+      23
+    ],
+    "post_frequency_daily": 1.28,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "data_review",
+      "network_study"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "data_review"
+    ],
+    "risk_score": 0.2,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 92,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.200.218.135",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "marketplace",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "802eed59-68b0-4bfe-b7da-e4428a3a0c7e",
+    "username": "QueryNode",
+    "aliases": [
+      "querynode_obs",
+      "querynode_72"
+    ],
+    "email": "querynode@simulated.research",
+    "pgp_fingerprint": "348990FFD894A75454AFA3830DC652074E6B9FD5",
+    "crypto_wallets": [
+      "0xbaa7f542a847bb8efea33d6e59710a99731a86d2"
+    ],
+    "wallet_addresses": [
+      "0xbaa7f542a847bb8efea33d6e59710a99731a86d2"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Cluster assignment remains a simulated research artifact.",
+      "Pattern recognition output is generated from mock telemetry.",
+      "Feature vectors are synthetic and non-attributable."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.23,
+      "punctuation_density": 0.123,
+      "vocabulary_diversity": 0.82
+    },
+    "posting_timestamps": [
+      "2026-07-19T19:09:30Z",
+      "2026-07-23T14:50:30Z",
+      "2026-07-25T16:20:30Z",
+      "2026-07-29T10:57:30Z",
+      "2026-07-31T23:22:30Z",
+      "2026-08-01T15:30:30Z",
+      "2026-08-04T15:03:30Z",
+      "2026-08-08T22:33:30Z",
+      "2026-08-09T16:22:30Z",
+      "2026-08-10T14:34:30Z",
+      "2026-08-11T11:18:30Z",
+      "2026-08-13T14:44:30Z",
+      "2026-08-16T18:46:30Z",
+      "2026-08-25T14:58:30Z",
+      "2026-08-27T23:11:30Z",
+      "2026-08-29T11:18:30Z",
+      "2026-08-30T22:50:30Z"
+    ],
+    "posting_hours": [
+      6,
+      10,
+      13,
+      14,
+      18
+    ],
+    "active_hours": [
+      6,
+      10,
+      13,
+      14,
+      18
+    ],
+    "post_frequency_daily": 1.76,
+    "languages": [
+      "es",
+      "de"
+    ],
+    "categories": [
+      "pattern_recognition",
+      "network_study",
+      "metadata_research"
+    ],
+    "content_tags": [
+      "pattern_recognition",
+      "network_study"
+    ],
+    "risk_score": 0.12,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 39,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.163.15.2",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "blog",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "207bb338-3bae-4ce4-ae08-4d7a73c7edc7",
+    "username": "LinkTrace",
+    "aliases": [
+      "linktrace_obs",
+      "linktrace_61"
+    ],
+    "email": "linktrace@simulated.research",
+    "pgp_fingerprint": "B925A0E480FAA0B66872BA4AA492D1B11133483B",
+    "crypto_wallets": [
+      "0x4073e50aeda218b143f471204c5b1c0da2579e1d"
+    ],
+    "wallet_addresses": [
+      "0x4073e50aeda218b143f471204c5b1c0da2579e1d"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Metadata research entries are fully synthetic.",
+      "User-agent strings identify the research client.",
+      "Origin ranges are private simulated address space."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.28,
+      "punctuation_density": 0.147,
+      "vocabulary_diversity": 0.88
+    },
+    "posting_timestamps": [
+      "2026-07-19T14:41:30Z",
+      "2026-07-20T00:00:30Z",
+      "2026-07-20T20:57:30Z",
+      "2026-07-21T17:05:30Z",
+      "2026-07-22T02:24:30Z",
+      "2026-07-26T15:16:30Z",
+      "2026-07-27T15:27:30Z",
+      "2026-07-29T15:24:30Z",
+      "2026-07-30T23:55:30Z",
+      "2026-07-31T21:15:30Z",
+      "2026-08-01T01:34:30Z",
+      "2026-08-01T16:35:30Z",
+      "2026-08-03T15:02:30Z",
+      "2026-08-05T00:00:30Z",
+      "2026-08-05T17:28:30Z",
+      "2026-08-09T15:29:30Z",
+      "2026-08-09T17:21:30Z",
+      "2026-08-10T21:27:30Z",
+      "2026-08-12T01:45:30Z",
+      "2026-08-12T01:59:30Z",
+      "2026-08-17T02:01:30Z",
+      "2026-08-20T15:06:30Z",
+      "2026-08-22T01:42:30Z",
+      "2026-08-26T17:02:30Z",
+      "2026-08-27T20:49:30Z",
+      "2026-08-31T23:58:30Z"
+    ],
+    "posting_hours": [
+      3,
+      5,
+      8,
+      12,
+      14
+    ],
+    "active_hours": [
+      3,
+      5,
+      8,
+      12,
+      14
+    ],
+    "post_frequency_daily": 1.94,
+    "languages": [
+      "ja",
+      "fr"
+    ],
+    "categories": [
+      "metadata_research",
+      "data_review",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "data_review"
+    ],
+    "risk_score": 0.09,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 86,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.179.186.16",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "development",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "4779ea8d-47f1-43a8-854a-0f5134bb9408",
+    "username": "PathMapper",
+    "aliases": [
+      "pathmapper_obs",
+      "pathmapper_45"
+    ],
+    "email": "pathmapper@simulated.research",
+    "pgp_fingerprint": "A75DDD5C9B571A05AC851E7DB6431D3D35C0AA1E",
+    "crypto_wallets": [
+      "0x798f0b869eceb2d1a95e69b3654c29e8d85b833b"
+    ],
+    "wallet_addresses": [
+      "0x798f0b869eceb2d1a95e69b3654c29e8d85b833b"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Response latency bins are generated for scoring tests.",
+      "Session-length estimates are mock research values.",
+      "Behavioral analysis uses authorized synthetic sessions."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.01,
+      "punctuation_density": 0.098,
+      "vocabulary_diversity": 0.64
+    },
+    "posting_timestamps": [
+      "2026-07-18T08:46:30Z",
+      "2026-07-19T06:35:30Z",
+      "2026-07-19T08:55:30Z",
+      "2026-07-19T09:21:30Z",
+      "2026-07-21T00:31:30Z",
+      "2026-07-22T08:42:30Z",
+      "2026-07-24T17:41:30Z",
+      "2026-07-25T06:43:30Z",
+      "2026-07-29T01:08:30Z",
+      "2026-08-03T17:32:30Z",
+      "2026-08-04T00:51:30Z",
+      "2026-08-07T08:04:30Z",
+      "2026-08-08T01:03:30Z",
+      "2026-08-14T18:12:30Z",
+      "2026-08-15T17:51:30Z",
+      "2026-08-16T06:40:30Z",
+      "2026-08-17T07:06:30Z",
+      "2026-08-19T09:02:30Z",
+      "2026-08-20T07:23:30Z",
+      "2026-08-21T01:19:30Z",
+      "2026-08-28T09:17:30Z",
+      "2026-08-29T00:43:30Z",
+      "2026-08-29T01:18:30Z",
+      "2026-08-30T08:21:30Z",
+      "2026-08-31T07:24:30Z"
+    ],
+    "posting_hours": [
+      4,
+      11,
+      20,
+      21,
+      22
+    ],
+    "active_hours": [
+      4,
+      11,
+      20,
+      21,
+      22
+    ],
+    "post_frequency_daily": 2.45,
+    "languages": [
+      "es",
+      "ru"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "metadata_research",
+      "data_review"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "metadata_research"
+    ],
+    "risk_score": 0.18,
+    "relationships": [
+      {
+        "identity_id": "fbacaa5a-3fe8-44e3-9043-33b18fee6f75",
+        "username": "NodeGraph",
+        "confidence_score": 0.67,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 31,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.123.150.147",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "forum",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "20269492-006f-4acd-b0c7-8e03542a4eb8",
+    "username": "RouteFind",
+    "aliases": [
+      "routefind_obs",
+      "routefind_95"
+    ],
+    "email": "routefind@simulated.research",
+    "pgp_fingerprint": "250E9A795C5321868133553C8FDF0A7E99FA5EF6",
+    "crypto_wallets": [
+      "0x84ed5c70e38f2f801acd618bfcafb27510c89346"
+    ],
+    "wallet_addresses": [
+      "0x84ed5c70e38f2f801acd618bfcafb27510c89346"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Gateway tags are mock values for demonstration.",
+      "Network study notes describe simulated topology only.",
+      "Routing metadata is generated, not observed."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.59,
+      "punctuation_density": 0.146,
+      "vocabulary_diversity": 0.82
+    },
+    "posting_timestamps": [
+      "2026-07-21T05:00:30Z",
+      "2026-07-21T09:21:30Z",
+      "2026-07-21T17:30:30Z",
+      "2026-07-23T17:18:30Z",
+      "2026-07-25T05:12:30Z",
+      "2026-07-26T09:05:30Z",
+      "2026-07-27T04:36:30Z",
+      "2026-07-27T09:21:30Z",
+      "2026-07-27T15:49:30Z",
+      "2026-07-28T05:12:30Z",
+      "2026-07-28T09:25:30Z",
+      "2026-07-28T16:50:30Z",
+      "2026-08-03T16:05:30Z",
+      "2026-08-09T19:04:30Z",
+      "2026-08-12T18:43:30Z",
+      "2026-08-21T09:16:30Z",
+      "2026-08-21T19:16:30Z",
+      "2026-08-22T16:47:30Z",
+      "2026-08-23T15:40:30Z",
+      "2026-08-24T18:48:30Z",
+      "2026-08-25T05:30:30Z"
+    ],
+    "posting_hours": [
+      0,
+      10,
+      12,
+      13,
+      20
+    ],
+    "active_hours": [
+      0,
+      10,
+      12,
+      13,
+      20
+    ],
+    "post_frequency_daily": 0.74,
+    "languages": [
+      "fr",
+      "zh"
+    ],
+    "categories": [
+      "network_study",
+      "data_review",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "data_review"
+    ],
+    "risk_score": 0.33,
+    "relationships": [
+      {
+        "identity_id": "fbacaa5a-3fe8-44e3-9043-33b18fee6f75",
+        "username": "NodeGraph",
+        "confidence_score": 0.63,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 27,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.150.12.180",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "social",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "a669d5d8-8819-4f10-a5d3-ca8439dbdaa7",
+    "username": "PortScan",
+    "aliases": [
+      "portscan_obs",
+      "portscan_28"
+    ],
+    "email": "portscan@simulated.research",
+    "pgp_fingerprint": "41375AB29CF25CBA45A577C71A14DE3BABEDAD9C",
+    "crypto_wallets": [
+      "0x304e8a26e9d281503ffac2299d2bf0c343a8c6ee"
+    ],
+    "wallet_addresses": [
+      "0x304e8a26e9d281503ffac2299d2bf0c343a8c6ee"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Field completeness scores support demonstration use.",
+      "Dataset review notes remain within authorized research bounds.",
+      "Synthetic record quality checks completed without anomalies."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.37,
+      "punctuation_density": 0.089,
+      "vocabulary_diversity": 0.79
+    },
+    "posting_timestamps": [
+      "2026-07-19T09:00:30Z",
+      "2026-07-21T09:29:30Z",
+      "2026-07-24T06:50:30Z",
+      "2026-07-26T07:20:30Z",
+      "2026-07-27T02:27:30Z",
+      "2026-07-30T19:17:30Z",
+      "2026-07-31T02:02:30Z",
+      "2026-08-01T07:30:30Z",
+      "2026-08-01T09:20:30Z",
+      "2026-08-08T06:45:30Z",
+      "2026-08-09T18:59:30Z",
+      "2026-08-11T04:00:30Z",
+      "2026-08-17T04:22:30Z",
+      "2026-08-17T07:05:30Z",
+      "2026-08-17T08:52:30Z",
+      "2026-08-18T07:20:30Z",
+      "2026-08-18T08:52:30Z",
+      "2026-08-20T07:05:30Z",
+      "2026-08-21T18:31:30Z",
+      "2026-08-22T02:26:30Z",
+      "2026-08-23T02:20:30Z",
+      "2026-08-23T07:28:30Z",
+      "2026-08-25T02:04:30Z",
+      "2026-08-30T19:25:30Z"
+    ],
+    "posting_hours": [
+      1,
+      3,
+      10,
+      20,
+      22
+    ],
+    "active_hours": [
+      1,
+      3,
+      10,
+      20,
+      22
+    ],
+    "post_frequency_daily": 3.28,
+    "languages": [
+      "ru",
+      "zh"
+    ],
+    "categories": [
+      "data_review",
+      "metadata_research",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "data_review",
+      "metadata_research"
+    ],
+    "risk_score": 0.11,
+    "relationships": [
+      {
+        "identity_id": "5fc29715-8e53-4920-b0bb-4b4309f4a5f6",
+        "username": "ByteForge",
+        "confidence_score": 0.69,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 120,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.168.97.94",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "blog",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "c2a7c256-8020-4fdc-b4da-4bebb68016f9",
+    "username": "FrameAnalyst",
+    "aliases": [
+      "frameanalyst_obs",
+      "frameanalyst_53"
+    ],
+    "email": "frameanalyst@simulated.research",
+    "pgp_fingerprint": "3613D8621790C81729DECA85083CC69BCB1273D4",
+    "crypto_wallets": [
+      "0xe63bc910ab552a4d654ac6c758445bbdab7b2365"
+    ],
+    "wallet_addresses": [
+      "0xe63bc910ab552a4d654ac6c758445bbdab7b2365"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Gateway tags are mock values for demonstration.",
+      "Network study notes describe simulated topology only.",
+      "Routing metadata is generated, not observed."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.29,
+      "punctuation_density": 0.173,
+      "vocabulary_diversity": 0.77
+    },
+    "posting_timestamps": [
+      "2026-07-18T11:51:30Z",
+      "2026-07-20T07:12:30Z",
+      "2026-07-24T06:57:30Z",
+      "2026-07-25T03:41:30Z",
+      "2026-07-25T10:08:30Z",
+      "2026-07-29T09:45:30Z",
+      "2026-07-31T03:55:30Z",
+      "2026-08-06T06:49:30Z",
+      "2026-08-06T07:30:30Z",
+      "2026-08-06T07:53:30Z",
+      "2026-08-06T09:48:30Z",
+      "2026-08-13T06:32:30Z",
+      "2026-08-14T11:52:30Z",
+      "2026-08-15T12:04:30Z",
+      "2026-08-17T04:20:30Z",
+      "2026-08-19T07:30:30Z",
+      "2026-08-19T07:31:30Z",
+      "2026-08-20T03:40:30Z",
+      "2026-08-20T08:02:30Z",
+      "2026-08-22T04:07:30Z",
+      "2026-08-26T09:41:30Z",
+      "2026-08-27T07:12:30Z",
+      "2026-08-28T03:55:30Z",
+      "2026-08-31T11:36:30Z"
+    ],
+    "posting_hours": [
+      1,
+      17,
+      19,
+      21,
+      22
+    ],
+    "active_hours": [
+      1,
+      17,
+      19,
+      21,
+      22
+    ],
+    "post_frequency_daily": 3.81,
+    "languages": [
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "network_study",
+      "behavioral_analysis",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.27,
+    "relationships": [
+      {
+        "identity_id": "87fdf05f-198f-47b9-8d51-740f69ff1bb8",
+        "username": "LogSeeker",
+        "confidence_score": 0.55,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 117,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.23.17.68",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "marketplace",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "c6564a59-483a-4c8f-a8ca-237423cd8fc3",
+    "username": "PacketPro",
+    "aliases": [
+      "packetpro_obs",
+      "packetpro_96"
+    ],
+    "email": "packetpro@simulated.research",
+    "pgp_fingerprint": "CF779011AFA35F80D31AD1E75E4FAE73BD333921",
+    "crypto_wallets": [
+      "0xeaa9c80797fed7fe4390c7886a2fb7b039594837"
+    ],
+    "wallet_addresses": [
+      "0xeaa9c80797fed7fe4390c7886a2fb7b039594837"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Response latency bins are generated for scoring tests.",
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Session-length estimates are mock research values."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.02,
+      "punctuation_density": 0.106,
+      "vocabulary_diversity": 0.9
+    },
+    "posting_timestamps": [
+      "2026-07-19T10:18:30Z",
+      "2026-07-21T10:19:30Z",
+      "2026-07-22T09:56:30Z",
+      "2026-07-23T00:02:30Z",
+      "2026-07-26T09:49:30Z",
+      "2026-07-27T00:05:30Z",
+      "2026-07-31T18:33:30Z",
+      "2026-08-06T00:08:30Z",
+      "2026-08-07T19:21:30Z",
+      "2026-08-08T09:55:30Z",
+      "2026-08-10T18:07:30Z",
+      "2026-08-11T14:11:30Z",
+      "2026-08-13T18:10:30Z",
+      "2026-08-15T09:36:30Z",
+      "2026-08-15T18:29:30Z",
+      "2026-08-16T10:03:30Z",
+      "2026-08-18T18:00:30Z",
+      "2026-08-22T13:39:30Z",
+      "2026-08-25T19:27:30Z",
+      "2026-08-31T19:04:30Z"
+    ],
+    "posting_hours": [
+      5,
+      10,
+      11,
+      15,
+      19
+    ],
+    "active_hours": [
+      5,
+      10,
+      11,
+      15,
+      19
+    ],
+    "post_frequency_daily": 2.29,
+    "languages": [
+      "fr",
+      "es"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "network_study",
+      "data_review"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "network_study"
+    ],
+    "risk_score": 0.15,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 114,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.47.147.34",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "marketplace",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "87fdf05f-198f-47b9-8d51-740f69ff1bb8",
+    "username": "LogSeeker",
+    "aliases": [
+      "logseeker_obs",
+      "logseeker_44"
+    ],
+    "email": "logseeker@simulated.research",
+    "pgp_fingerprint": "AE696E155AB96ECFB872D234BB361E70C8F191E6",
+    "crypto_wallets": [
+      "0x3b728205ed7de82f897be6a8e73146208c248b7c"
+    ],
+    "wallet_addresses": [
+      "0x3b728205ed7de82f897be6a8e73146208c248b7c"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Gateway tags are mock values for demonstration.",
+      "Routing metadata is generated, not observed.",
+      "Network study notes describe simulated topology only."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.17,
+      "punctuation_density": 0.112,
+      "vocabulary_diversity": 0.8
+    },
+    "posting_timestamps": [
+      "2026-07-19T05:09:30Z",
+      "2026-07-21T09:39:30Z",
+      "2026-07-23T20:12:30Z",
+      "2026-07-31T20:01:30Z",
+      "2026-07-31T22:09:30Z",
+      "2026-08-02T10:02:30Z",
+      "2026-08-04T05:16:30Z",
+      "2026-08-05T19:40:30Z",
+      "2026-08-13T20:22:30Z",
+      "2026-08-14T04:50:30Z",
+      "2026-08-14T09:59:30Z",
+      "2026-08-14T16:18:30Z",
+      "2026-08-16T09:42:30Z",
+      "2026-08-19T20:29:30Z",
+      "2026-08-23T04:56:30Z",
+      "2026-08-26T15:50:30Z",
+      "2026-08-26T22:27:30Z",
+      "2026-08-26T22:30:30Z",
+      "2026-08-27T22:22:30Z",
+      "2026-08-30T22:24:30Z"
+    ],
+    "posting_hours": [
+      0,
+      7,
+      9,
+      13,
+      19
+    ],
+    "active_hours": [
+      0,
+      7,
+      9,
+      13,
+      19
+    ],
+    "post_frequency_daily": 3.21,
+    "languages": [
+      "ja",
+      "en"
+    ],
+    "categories": [
+      "network_study",
+      "data_review",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "data_review"
+    ],
+    "risk_score": 0.2,
+    "relationships": [
+      {
+        "identity_id": "c2a7c256-8020-4fdc-b4da-4bebb68016f9",
+        "username": "FrameAnalyst",
+        "confidence_score": 0.55,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 24,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.42.184.189",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "blog",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "4d153eef-e7ff-41f2-9432-81cf7e73fb7b",
+    "username": "TraceLog",
+    "aliases": [
+      "tracelog_obs",
+      "tracelog_94"
+    ],
+    "email": "tracelog@simulated.research",
+    "pgp_fingerprint": "FB6F3F3B1A36FE2BB817450AF360C963F9BB2C37",
+    "crypto_wallets": [
+      "0xa5fc05281758a5eb06b40b8879857d9d287d87c8"
+    ],
+    "wallet_addresses": [
+      "0xa5fc05281758a5eb06b40b8879857d9d287d87c8"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Routing metadata is generated, not observed.",
+      "Network study notes describe simulated topology only.",
+      "Gateway tags are mock values for demonstration."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.03,
+      "punctuation_density": 0.06,
+      "vocabulary_diversity": 0.94
+    },
+    "posting_timestamps": [
+      "2026-07-23T05:07:30Z",
+      "2026-07-23T06:14:30Z",
+      "2026-07-23T17:57:30Z",
+      "2026-07-25T05:30:30Z",
+      "2026-07-27T09:38:30Z",
+      "2026-07-30T05:24:30Z",
+      "2026-08-01T00:24:30Z",
+      "2026-08-05T18:23:30Z",
+      "2026-08-07T09:57:30Z",
+      "2026-08-09T04:38:30Z",
+      "2026-08-13T05:17:30Z",
+      "2026-08-17T06:06:30Z",
+      "2026-08-18T09:31:30Z",
+      "2026-08-19T23:57:30Z",
+      "2026-08-23T23:35:30Z",
+      "2026-08-25T05:48:30Z",
+      "2026-08-26T09:39:30Z",
+      "2026-08-28T04:37:30Z",
+      "2026-08-28T18:16:30Z",
+      "2026-08-29T05:49:30Z",
+      "2026-08-30T00:24:30Z",
+      "2026-08-30T04:37:30Z"
+    ],
+    "posting_hours": [
+      0,
+      5,
+      11,
+      19,
+      23
+    ],
+    "active_hours": [
+      0,
+      5,
+      11,
+      19,
+      23
+    ],
+    "post_frequency_daily": 1.37,
+    "languages": [
+      "ja",
+      "ru"
+    ],
+    "categories": [
+      "network_study",
+      "general_analysis",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "general_analysis"
+    ],
+    "risk_score": 0.35,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 95,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.49.135.175",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "forum",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "20ef90e8-ef59-47cd-bf52-b43ab2d956c8",
+    "username": "SignalPulse",
+    "aliases": [
+      "signalpulse_obs",
+      "signalpulse_16"
+    ],
+    "email": "signalpulse@simulated.research",
+    "pgp_fingerprint": "E22652F755F55C6B993CE4F76BF98F443D0DB488",
+    "crypto_wallets": [
+      "0xe2052593c16ebbc2db9e94b910c5d6dd3a90c640"
+    ],
+    "wallet_addresses": [
+      "0xe2052593c16ebbc2db9e94b910c5d6dd3a90c640"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Metadata research entries are fully synthetic.",
+      "User-agent strings identify the research client.",
+      "Origin ranges are private simulated address space."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.33,
+      "punctuation_density": 0.16,
+      "vocabulary_diversity": 0.74
+    },
+    "posting_timestamps": [
+      "2026-07-18T18:42:30Z",
+      "2026-07-20T12:03:30Z",
+      "2026-07-21T11:18:30Z",
+      "2026-07-22T00:41:30Z",
+      "2026-07-23T11:51:30Z",
+      "2026-07-27T01:23:30Z",
+      "2026-07-27T10:43:30Z",
+      "2026-07-29T19:15:30Z",
+      "2026-07-30T11:41:30Z",
+      "2026-08-04T12:47:30Z",
+      "2026-08-08T13:18:30Z",
+      "2026-08-08T18:42:30Z",
+      "2026-08-11T12:52:30Z",
+      "2026-08-12T19:08:30Z",
+      "2026-08-16T01:05:30Z",
+      "2026-08-17T18:47:30Z",
+      "2026-08-19T12:05:30Z",
+      "2026-08-22T12:28:30Z",
+      "2026-08-22T19:09:30Z",
+      "2026-08-23T11:55:30Z",
+      "2026-08-26T11:54:30Z",
+      "2026-08-27T00:43:30Z",
+      "2026-08-27T12:41:30Z",
+      "2026-08-28T11:05:30Z"
+    ],
+    "posting_hours": [
+      4,
+      10,
+      16,
+      17,
+      18
+    ],
+    "active_hours": [
+      4,
+      10,
+      16,
+      17,
+      18
+    ],
+    "post_frequency_daily": 1.35,
+    "languages": [
+      "zh",
+      "es"
+    ],
+    "categories": [
+      "metadata_research",
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "network_study"
+    ],
+    "risk_score": 0.21,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 94,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.153.148.130",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "social",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "afffa9f7-2190-4c34-9504-0b7440b1b302",
+    "username": "WaveHunter",
+    "aliases": [
+      "wavehunter_obs",
+      "wavehunter_67"
+    ],
+    "email": "wavehunter@simulated.research",
+    "pgp_fingerprint": "0383847B2B09A024C90A064DAD0DA36F15D8287E",
+    "crypto_wallets": [
+      "0x03856255a3f8caeed0842ea16f9a332fe58328cd"
+    ],
+    "wallet_addresses": [
+      "0x03856255a3f8caeed0842ea16f9a332fe58328cd"
+    ],
+    "platform": "development",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Feature vectors are synthetic and non-attributable.",
+      "Pattern recognition output is generated from mock telemetry.",
+      "Cluster assignment remains a simulated research artifact."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.58,
+      "punctuation_density": 0.098,
+      "vocabulary_diversity": 0.8
+    },
+    "posting_timestamps": [
+      "2026-07-18T15:35:30Z",
+      "2026-07-21T16:19:30Z",
+      "2026-07-22T16:21:30Z",
+      "2026-07-23T06:52:30Z",
+      "2026-07-23T07:13:30Z",
+      "2026-07-24T06:51:30Z",
+      "2026-07-28T06:49:30Z",
+      "2026-07-30T07:00:30Z",
+      "2026-08-02T20:03:30Z",
+      "2026-08-03T06:59:30Z",
+      "2026-08-05T16:02:30Z",
+      "2026-08-07T00:52:30Z",
+      "2026-08-07T13:00:30Z",
+      "2026-08-07T16:05:30Z",
+      "2026-08-17T07:16:30Z",
+      "2026-08-17T19:42:30Z",
+      "2026-08-18T01:04:30Z",
+      "2026-08-18T01:08:30Z",
+      "2026-08-19T01:19:30Z",
+      "2026-08-20T01:22:30Z",
+      "2026-08-21T00:42:30Z",
+      "2026-08-23T20:18:30Z",
+      "2026-08-26T13:22:30Z",
+      "2026-08-29T07:24:30Z",
+      "2026-08-31T16:04:30Z"
+    ],
+    "posting_hours": [
+      4,
+      9,
+      13,
+      16,
+      22
+    ],
+    "active_hours": [
+      4,
+      9,
+      13,
+      16,
+      22
+    ],
+    "post_frequency_daily": 2.1,
+    "languages": [
+      "ja",
+      "es"
+    ],
+    "categories": [
+      "pattern_recognition",
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "pattern_recognition",
+      "network_study"
+    ],
+    "risk_score": 0.4,
+    "relationships": [
+      {
+        "identity_id": "4b1e5f17-a520-4456-9bab-dbb4c74280e5",
+        "username": "NetworkScan",
+        "confidence_score": 0.64,
+        "correlation_type": "behavioral_similarity"
+      },
+      {
+        "identity_id": "2707fec6-4b3c-4628-988e-2355f018b619",
+        "username": "MetaScan",
+        "confidence_score": 0.73,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 20,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.31.48.82",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "forum",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "56b8e7d3-8c5e-48ad-926a-9d9fe9c3e1e6",
+    "username": "DataDive",
+    "aliases": [
+      "datadive_obs",
+      "datadive_54"
+    ],
+    "email": "datadive@simulated.research",
+    "pgp_fingerprint": "464D769082D7B1CFB26729B374BECB117586C8F6",
+    "crypto_wallets": [
+      "0x6ce9a2d2b64c7a123947d80e3976193898d02a0d"
+    ],
+    "wallet_addresses": [
+      "0x6ce9a2d2b64c7a123947d80e3976193898d02a0d"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Response latency bins are generated for scoring tests.",
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Session-length estimates are mock research values."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.28,
+      "punctuation_density": 0.077,
+      "vocabulary_diversity": 0.84
+    },
+    "posting_timestamps": [
+      "2026-07-22T08:25:30Z",
+      "2026-07-22T09:59:30Z",
+      "2026-07-22T19:43:30Z",
+      "2026-07-26T08:08:30Z",
+      "2026-07-29T09:57:30Z",
+      "2026-07-31T07:44:30Z",
+      "2026-08-01T07:31:30Z",
+      "2026-08-04T08:26:30Z",
+      "2026-08-05T20:09:30Z",
+      "2026-08-07T19:42:30Z",
+      "2026-08-11T10:57:30Z",
+      "2026-08-12T11:07:30Z",
+      "2026-08-13T09:52:30Z",
+      "2026-08-13T10:22:30Z",
+      "2026-08-13T19:30:30Z",
+      "2026-08-18T08:04:30Z",
+      "2026-08-18T18:51:30Z",
+      "2026-08-20T08:16:30Z",
+      "2026-08-23T07:54:30Z",
+      "2026-08-24T11:09:30Z",
+      "2026-08-24T20:01:30Z",
+      "2026-08-28T19:54:30Z",
+      "2026-08-29T19:41:30Z"
+    ],
+    "posting_hours": [
+      9,
+      10,
+      18,
+      19,
+      21
+    ],
+    "active_hours": [
+      9,
+      10,
+      18,
+      19,
+      21
+    ],
+    "post_frequency_daily": 2.46,
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "general_analysis",
+      "data_review"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "general_analysis"
+    ],
+    "risk_score": 0.28,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 96,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.178.180.153",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "social",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "1ae73028-2ec0-459b-aad3-872bb0c7f230",
+    "username": "CloudScan",
+    "aliases": [
+      "cloudscan_obs",
+      "cloudscan_98"
+    ],
+    "email": "cloudscan@simulated.research",
+    "pgp_fingerprint": "850A5B90255AECA7AE85C6BD4B583ACE5F40FAD9",
+    "crypto_wallets": [
+      "0x69dcb506737f341cce70783eb8c2ddfa2b7b80ea"
+    ],
+    "wallet_addresses": [
+      "0x69dcb506737f341cce70783eb8c2ddfa2b7b80ea"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Infrastructure metadata is fully simulated.",
+      "No real-world correlation is intended or implied.",
+      "Simulated actor profile \u2014 authorized research dataset only."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.26,
+      "punctuation_density": 0.164,
+      "vocabulary_diversity": 0.82
+    },
+    "posting_timestamps": [
+      "2026-07-20T04:24:30Z",
+      "2026-07-23T09:58:30Z",
+      "2026-07-23T18:56:30Z",
+      "2026-07-24T09:50:30Z",
+      "2026-08-04T04:22:30Z",
+      "2026-08-04T15:19:30Z",
+      "2026-08-08T04:25:30Z",
+      "2026-08-09T10:10:30Z",
+      "2026-08-13T10:15:30Z",
+      "2026-08-15T02:45:30Z",
+      "2026-08-15T03:20:30Z",
+      "2026-08-15T04:30:30Z",
+      "2026-08-22T04:11:30Z",
+      "2026-08-26T02:56:30Z",
+      "2026-08-30T14:33:30Z"
+    ],
+    "posting_hours": [
+      1,
+      2,
+      10,
+      14,
+      19
+    ],
+    "active_hours": [
+      1,
+      2,
+      10,
+      14,
+      19
+    ],
+    "post_frequency_daily": 2.95,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [
+      "general_analysis",
+      "pattern_recognition",
+      "behavioral_analysis"
+    ],
+    "content_tags": [
+      "general_analysis",
+      "pattern_recognition"
+    ],
+    "risk_score": 0.13,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 93,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.52.50.74",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "blog",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "f0e2819f-3db7-4e5f-9931-d4749246bd2c",
+    "username": "TraceNode",
+    "aliases": [
+      "tracenode_obs",
+      "tracenode_99"
+    ],
+    "email": "tracenode@simulated.research",
+    "pgp_fingerprint": "1CB14AC7F2E452E5D57117D45986B18147933271",
+    "crypto_wallets": [
+      "0x3b6f95b2abbd19517469a9d5a0329ccca74973e4"
+    ],
+    "wallet_addresses": [
+      "0x3b6f95b2abbd19517469a9d5a0329ccca74973e4"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Network study notes describe simulated topology only.",
+      "Routing metadata is generated, not observed.",
+      "Gateway tags are mock values for demonstration."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.79,
+      "punctuation_density": 0.127,
+      "vocabulary_diversity": 0.9
+    },
+    "posting_timestamps": [
+      "2026-07-20T18:00:30Z",
+      "2026-07-20T18:22:30Z",
+      "2026-07-22T15:45:30Z",
+      "2026-07-31T08:22:30Z",
+      "2026-08-04T07:05:30Z",
+      "2026-08-04T07:17:30Z",
+      "2026-08-05T07:33:30Z",
+      "2026-08-05T18:12:30Z",
+      "2026-08-07T08:06:30Z",
+      "2026-08-07T15:37:30Z",
+      "2026-08-13T20:15:30Z",
+      "2026-08-23T17:55:30Z",
+      "2026-08-26T17:49:30Z",
+      "2026-08-30T17:44:30Z",
+      "2026-08-31T19:49:30Z"
+    ],
+    "posting_hours": [
+      9,
+      11,
+      13,
+      21,
+      22
+    ],
+    "active_hours": [
+      9,
+      11,
+      13,
+      21,
+      22
+    ],
+    "post_frequency_daily": 2.62,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "categories": [
+      "network_study",
+      "behavioral_analysis",
+      "data_review"
+    ],
+    "content_tags": [
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.37,
+    "relationships": [
+      {
+        "identity_id": "22fcbcdd-6e53-4fa5-8120-b0b2e95f55b7",
+        "username": "EchoGrid",
+        "confidence_score": 0.69,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 69,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.16.95.231",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "e31a3304-b1b8-4dde-87ed-cc2a146e5135",
+    "username": "LinkMap",
+    "aliases": [
+      "linkmap_obs",
+      "linkmap_25"
+    ],
+    "email": "linkmap@simulated.research",
+    "pgp_fingerprint": "5299D38685F9B17B2BFFC71E17BF1AC405C787B6",
+    "crypto_wallets": [
+      "0xfc40ebb90720fc9418d424d012927c4b7cd512e2"
+    ],
+    "wallet_addresses": [
+      "0xfc40ebb90720fc9418d424d012927c4b7cd512e2"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Session-length estimates are mock research values.",
+      "Response latency bins are generated for scoring tests."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.75,
+      "punctuation_density": 0.16,
+      "vocabulary_diversity": 0.72
+    },
+    "posting_timestamps": [
+      "2026-07-19T07:41:30Z",
+      "2026-07-19T14:00:30Z",
+      "2026-07-19T16:44:30Z",
+      "2026-07-19T17:10:30Z",
+      "2026-07-21T16:09:30Z",
+      "2026-07-22T21:45:30Z",
+      "2026-07-23T22:27:30Z",
+      "2026-07-24T16:52:30Z",
+      "2026-07-25T14:01:30Z",
+      "2026-07-27T21:47:30Z",
+      "2026-07-28T15:36:30Z",
+      "2026-07-28T17:06:30Z",
+      "2026-08-03T13:47:30Z",
+      "2026-08-04T07:32:30Z",
+      "2026-08-04T22:12:30Z",
+      "2026-08-05T21:57:30Z",
+      "2026-08-11T07:47:30Z",
+      "2026-08-12T13:43:30Z",
+      "2026-08-14T15:39:30Z",
+      "2026-08-15T16:57:30Z",
+      "2026-08-17T16:14:30Z",
+      "2026-08-19T08:09:30Z",
+      "2026-08-19T22:29:30Z",
+      "2026-08-25T14:08:30Z",
+      "2026-08-25T15:49:30Z",
+      "2026-08-29T21:32:30Z",
+      "2026-08-31T22:30:30Z"
+    ],
+    "posting_hours": [
+      7,
+      12,
+      13,
+      15,
+      21
+    ],
+    "active_hours": [
+      7,
+      12,
+      13,
+      15,
+      21
+    ],
+    "post_frequency_daily": 0.8,
+    "languages": [
+      "fr",
+      "zh"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "network_study",
+      "metadata_research"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "network_study"
+    ],
+    "risk_score": 0.29,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 92,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.194.210.30",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "forum",
+        "blog"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "441d2b22-4642-4b64-a982-b00176f9a5a4",
+    "username": "RoutePath",
+    "aliases": [
+      "routepath_obs",
+      "routepath_63"
+    ],
+    "email": "routepath@simulated.research",
+    "pgp_fingerprint": "A17FCBAC4C406F4D21F36A186917401BC07A0062",
+    "crypto_wallets": [
+      "0x560bc76bc136bc18f540fa5d5dc438fa461b7e73"
+    ],
+    "wallet_addresses": [
+      "0x560bc76bc136bc18f540fa5d5dc438fa461b7e73"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Pattern recognition output is generated from mock telemetry.",
+      "Cluster assignment remains a simulated research artifact.",
+      "Feature vectors are synthetic and non-attributable."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.36,
+      "punctuation_density": 0.131,
+      "vocabulary_diversity": 0.71
+    },
+    "posting_timestamps": [
+      "2026-07-19T04:30:30Z",
+      "2026-07-19T06:21:30Z",
+      "2026-07-24T03:37:30Z",
+      "2026-07-24T05:15:30Z",
+      "2026-07-24T06:16:30Z",
+      "2026-07-26T03:31:30Z",
+      "2026-07-26T04:38:30Z",
+      "2026-08-10T11:10:30Z",
+      "2026-08-13T05:01:30Z",
+      "2026-08-18T06:01:30Z",
+      "2026-08-19T04:53:30Z",
+      "2026-08-20T23:26:30Z",
+      "2026-08-21T04:33:30Z",
+      "2026-08-22T10:49:30Z",
+      "2026-08-23T22:37:30Z",
+      "2026-08-24T05:56:30Z",
+      "2026-08-24T23:21:30Z",
+      "2026-08-26T04:59:30Z",
+      "2026-08-28T04:03:30Z",
+      "2026-08-28T04:43:30Z",
+      "2026-08-29T11:23:30Z",
+      "2026-08-30T10:32:30Z"
+    ],
+    "posting_hours": [
+      0,
+      1,
+      6,
+      18,
+      23
+    ],
+    "active_hours": [
+      0,
+      1,
+      6,
+      18,
+      23
+    ],
+    "post_frequency_daily": 1.09,
+    "languages": [
+      "es",
+      "fr"
+    ],
+    "categories": [
+      "pattern_recognition",
+      "metadata_research",
+      "network_study"
+    ],
+    "content_tags": [
+      "pattern_recognition",
+      "metadata_research"
+    ],
+    "risk_score": 0.25,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 62,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.214.208.116",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "blog",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "ebdcd2b9-812a-435a-bee7-76760b25d1fd",
+    "username": "PortDive",
+    "aliases": [
+      "portdive_obs",
+      "portdive_55"
+    ],
+    "email": "portdive@simulated.research",
+    "pgp_fingerprint": "C07021AE6CCB3A86F9027FAC5031815C83CA43CA",
+    "crypto_wallets": [
+      "0xf72a0a465cc0be2c71eb953a5c51bd6377e2e762"
+    ],
+    "wallet_addresses": [
+      "0xf72a0a465cc0be2c71eb953a5c51bd6377e2e762"
+    ],
+    "platform": "social",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Synthetic record quality checks completed without anomalies.",
+      "Dataset review notes remain within authorized research bounds.",
+      "Field completeness scores support demonstration use."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.28,
+      "punctuation_density": 0.135,
+      "vocabulary_diversity": 0.7
+    },
+    "posting_timestamps": [
+      "2026-07-18T23:02:30Z",
+      "2026-07-22T05:33:30Z",
+      "2026-07-26T23:04:30Z",
+      "2026-07-27T22:46:30Z",
+      "2026-07-29T08:35:30Z",
+      "2026-07-29T09:00:30Z",
+      "2026-07-30T23:03:30Z",
+      "2026-07-31T21:25:30Z",
+      "2026-08-02T18:30:30Z",
+      "2026-08-04T21:15:30Z",
+      "2026-08-05T21:22:30Z",
+      "2026-08-11T08:53:30Z",
+      "2026-08-17T06:21:30Z",
+      "2026-08-17T23:04:30Z",
+      "2026-08-18T06:00:30Z",
+      "2026-08-21T05:55:30Z",
+      "2026-08-29T23:00:30Z"
+    ],
+    "posting_hours": [
+      6,
+      8,
+      11,
+      20,
+      23
+    ],
+    "active_hours": [
+      6,
+      8,
+      11,
+      20,
+      23
+    ],
+    "post_frequency_daily": 1.54,
+    "languages": [
+      "es",
+      "de"
+    ],
+    "categories": [
+      "data_review",
+      "general_analysis",
+      "network_study"
+    ],
+    "content_tags": [
+      "data_review",
+      "general_analysis"
+    ],
+    "risk_score": 0.09,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 97,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.120.118.108",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "social",
+        "blog"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "89664fa3-37f6-4fdc-9957-edcddc9bf86b",
+    "username": "FrameDeep",
+    "aliases": [
+      "framedeep_obs",
+      "framedeep_24"
+    ],
+    "email": "framedeep@simulated.research",
+    "pgp_fingerprint": "F72B2DAB0A6B84CB993A95E8E506705AB8C258AB",
+    "crypto_wallets": [
+      "0xcdbcc5e860578d78de75abfe3e162f121223f06a"
+    ],
+    "wallet_addresses": [
+      "0xcdbcc5e860578d78de75abfe3e162f121223f06a"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "User-agent strings identify the research client.",
+      "Origin ranges are private simulated address space.",
+      "Metadata research entries are fully synthetic."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 4.96,
+      "punctuation_density": 0.059,
+      "vocabulary_diversity": 0.91
+    },
+    "posting_timestamps": [
+      "2026-07-21T16:00:30Z",
+      "2026-07-23T17:45:30Z",
+      "2026-07-25T13:37:30Z",
+      "2026-07-27T15:01:30Z",
+      "2026-07-28T14:09:30Z",
+      "2026-07-28T16:19:30Z",
+      "2026-07-28T17:56:30Z",
+      "2026-07-31T18:01:30Z",
+      "2026-08-03T15:46:30Z",
+      "2026-08-03T16:07:30Z",
+      "2026-08-08T15:41:30Z",
+      "2026-08-11T14:22:30Z",
+      "2026-08-11T18:30:30Z",
+      "2026-08-12T14:22:30Z",
+      "2026-08-12T17:40:30Z",
+      "2026-08-13T00:32:30Z",
+      "2026-08-13T13:48:30Z",
+      "2026-08-13T15:20:30Z",
+      "2026-08-15T18:00:30Z",
+      "2026-08-17T01:28:30Z",
+      "2026-08-20T17:55:30Z",
+      "2026-08-20T18:20:30Z",
+      "2026-08-22T13:44:30Z",
+      "2026-08-22T16:02:30Z",
+      "2026-08-28T18:08:30Z",
+      "2026-08-29T16:08:30Z",
+      "2026-08-30T14:31:30Z"
+    ],
+    "posting_hours": [
+      4,
+      11,
+      13,
+      14,
+      15
+    ],
+    "active_hours": [
+      4,
+      11,
+      13,
+      14,
+      15
+    ],
+    "post_frequency_daily": 3.06,
+    "languages": [
+      "zh",
+      "ja"
+    ],
+    "categories": [
+      "metadata_research",
+      "network_study",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "network_study"
+    ],
+    "risk_score": 0.14,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 20,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "variable"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.243.134.166",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "social",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "fbacaa5a-3fe8-44e3-9043-33b18fee6f75",
+    "username": "NodeGraph",
+    "aliases": [
+      "nodegraph_obs",
+      "nodegraph_30"
+    ],
+    "email": "nodegraph@simulated.research",
+    "pgp_fingerprint": "710A93E4087A18359FE52D5545FD1B7FC4CF6E29",
+    "crypto_wallets": [
+      "0x137df1fc16e68bc22680dd487004fd7ae67b314f"
+    ],
+    "wallet_addresses": [
+      "0x137df1fc16e68bc22680dd487004fd7ae67b314f"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Routing metadata is generated, not observed.",
+      "Network study notes describe simulated topology only.",
+      "Gateway tags are mock values for demonstration."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.46,
+      "punctuation_density": 0.144,
+      "vocabulary_diversity": 0.77
+    },
+    "posting_timestamps": [
+      "2026-07-18T18:08:30Z",
+      "2026-07-19T11:24:30Z",
+      "2026-07-22T17:42:30Z",
+      "2026-07-26T03:21:30Z",
+      "2026-07-28T06:08:30Z",
+      "2026-07-29T11:07:30Z",
+      "2026-07-31T10:09:30Z",
+      "2026-08-08T09:50:30Z",
+      "2026-08-10T03:12:30Z",
+      "2026-08-11T09:34:30Z",
+      "2026-08-11T11:13:30Z",
+      "2026-08-13T05:50:30Z",
+      "2026-08-21T06:10:30Z",
+      "2026-08-22T03:13:30Z",
+      "2026-08-23T03:22:30Z",
+      "2026-08-25T05:42:30Z",
+      "2026-08-27T06:18:30Z"
+    ],
+    "posting_hours": [
+      2,
+      11,
+      18,
+      19,
+      23
+    ],
+    "active_hours": [
+      2,
+      11,
+      18,
+      19,
+      23
+    ],
+    "post_frequency_daily": 0.86,
+    "languages": [
+      "fr",
+      "ru"
+    ],
+    "categories": [
+      "network_study",
+      "behavioral_analysis",
+      "data_review"
+    ],
+    "content_tags": [
+      "network_study",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.31,
+    "relationships": [
+      {
+        "identity_id": "20269492-006f-4acd-b0c7-8e03542a4eb8",
+        "username": "RouteFind",
+        "confidence_score": 0.63,
+        "correlation_type": "behavioral_similarity"
+      },
+      {
+        "identity_id": "4779ea8d-47f1-43a8-854a-0f5134bb9408",
+        "username": "PathMapper",
+        "confidence_score": 0.67,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 34,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.31.96.132",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "development",
+        "forum"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "73cce5f2-6348-4c35-88ed-0455810c114e",
+    "username": "SyncFlow",
+    "aliases": [
+      "syncflow_obs",
+      "syncflow_73"
+    ],
+    "email": "syncflow@simulated.research",
+    "pgp_fingerprint": "1205B27F8F24B12BB43F6C107630A97E04011993",
+    "crypto_wallets": [
+      "0xa02b495dc981dc8bf2c0beed7b2a1df686c57875"
+    ],
+    "wallet_addresses": [
+      "0xa02b495dc981dc8bf2c0beed7b2a1df686c57875"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Gateway tags are mock values for demonstration.",
+      "Routing metadata is generated, not observed.",
+      "Network study notes describe simulated topology only."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.2,
+      "punctuation_density": 0.119,
+      "vocabulary_diversity": 0.86
+    },
+    "posting_timestamps": [
+      "2026-07-18T06:24:30Z",
+      "2026-07-19T11:47:30Z",
+      "2026-07-21T12:08:30Z",
+      "2026-07-24T12:23:30Z",
+      "2026-07-25T06:13:30Z",
+      "2026-07-30T04:23:30Z",
+      "2026-07-31T06:13:30Z",
+      "2026-07-31T19:42:30Z",
+      "2026-08-01T06:05:30Z",
+      "2026-08-09T03:30:30Z",
+      "2026-08-17T11:44:30Z",
+      "2026-08-19T20:18:30Z",
+      "2026-08-22T04:07:30Z",
+      "2026-08-22T12:05:30Z",
+      "2026-08-22T12:24:30Z",
+      "2026-08-24T19:59:30Z",
+      "2026-08-25T12:02:30Z",
+      "2026-08-27T11:47:30Z"
+    ],
+    "posting_hours": [
+      1,
+      2,
+      9,
+      17,
+      23
+    ],
+    "active_hours": [
+      1,
+      2,
+      9,
+      17,
+      23
+    ],
+    "post_frequency_daily": 1.31,
+    "languages": [
+      "de",
+      "fr"
+    ],
+    "categories": [
+      "network_study",
+      "metadata_research",
+      "general_analysis"
+    ],
+    "content_tags": [
+      "network_study",
+      "metadata_research"
+    ],
+    "risk_score": 0.3,
+    "relationships": [
+      {
+        "identity_id": "f72a874c-b4c9-4487-a37c-641248dfcb52",
+        "username": "DataDrift",
+        "confidence_score": 0.67,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 32,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.216.114.58",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "forum",
+        "marketplace"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "5fc29715-8e53-4920-b0bb-4b4309f4a5f6",
+    "username": "ByteForge",
+    "aliases": [
+      "byteforge_obs",
+      "byteforge_28"
+    ],
+    "email": "byteforge@simulated.research",
+    "pgp_fingerprint": "6A2911CCC3A745D8F06E656708D4B72B71AAA97D",
+    "crypto_wallets": [
+      "0x867f95f500d5b0e51555a3a9e145057d9e4b9f66"
+    ],
+    "wallet_addresses": [
+      "0x867f95f500d5b0e51555a3a9e145057d9e4b9f66"
+    ],
+    "platform": "blog",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "User-agent strings identify the research client.",
+      "Metadata research entries are fully synthetic.",
+      "Origin ranges are private simulated address space."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.51,
+      "punctuation_density": 0.165,
+      "vocabulary_diversity": 0.72
+    },
+    "posting_timestamps": [
+      "2026-07-20T07:19:30Z",
+      "2026-07-22T06:39:30Z",
+      "2026-07-23T07:01:30Z",
+      "2026-07-23T07:31:30Z",
+      "2026-07-25T11:13:30Z",
+      "2026-07-26T07:39:30Z",
+      "2026-07-27T01:57:30Z",
+      "2026-07-28T11:18:30Z",
+      "2026-07-29T08:03:30Z",
+      "2026-08-05T08:14:30Z",
+      "2026-08-12T07:48:30Z",
+      "2026-08-16T02:11:30Z",
+      "2026-08-17T06:43:30Z",
+      "2026-08-18T08:13:30Z",
+      "2026-08-18T10:40:30Z",
+      "2026-08-19T11:01:30Z",
+      "2026-08-20T06:59:30Z",
+      "2026-08-26T07:24:30Z",
+      "2026-08-27T06:39:30Z",
+      "2026-08-27T10:58:30Z",
+      "2026-08-30T06:35:30Z"
+    ],
+    "posting_hours": [
+      3,
+      15,
+      18,
+      21,
+      22
+    ],
+    "active_hours": [
+      3,
+      15,
+      18,
+      21,
+      22
+    ],
+    "post_frequency_daily": 1.34,
+    "languages": [
+      "es",
+      "de"
+    ],
+    "categories": [
+      "metadata_research",
+      "general_analysis",
+      "data_review"
+    ],
+    "content_tags": [
+      "metadata_research",
+      "general_analysis"
+    ],
+    "risk_score": 0.28,
+    "relationships": [
+      {
+        "identity_id": "a669d5d8-8819-4f10-a5d3-ca8439dbdaa7",
+        "username": "PortScan",
+        "confidence_score": 0.69,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 110,
+      "platform_switch_frequency": "high",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.94.249.112",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "simulated",
+      "platform_tags": [
+        "marketplace",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "b7ba46c0-f8eb-4d96-a6cc-69404541c20d",
+    "username": "HashOrbit",
+    "aliases": [
+      "hashorbit_obs",
+      "hashorbit_86"
+    ],
+    "email": "hashorbit@simulated.research",
+    "pgp_fingerprint": "442A3320C47F6E340C48A0BC0E541FEAE6DD3981",
+    "crypto_wallets": [
+      "0xa9c8719c5dbcbe31346d08b18734c2754ae0bc0e"
+    ],
+    "wallet_addresses": [
+      "0xa9c8719c5dbcbe31346d08b18734c2754ae0bc0e"
+    ],
+    "platform": "market",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "No real-world correlation is intended or implied.",
+      "Infrastructure metadata is fully simulated.",
+      "Synthetic identity for defensive intelligence demonstration."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.55,
+      "punctuation_density": 0.153,
+      "vocabulary_diversity": 0.79
+    },
+    "posting_timestamps": [
+      "2026-07-21T20:36:30Z",
+      "2026-07-21T20:50:30Z",
+      "2026-07-24T07:43:30Z",
+      "2026-08-03T21:30:30Z",
+      "2026-08-04T21:38:30Z",
+      "2026-08-05T16:45:30Z",
+      "2026-08-06T20:50:30Z",
+      "2026-08-11T11:40:30Z",
+      "2026-08-11T11:46:30Z",
+      "2026-08-12T16:54:30Z",
+      "2026-08-12T20:35:30Z",
+      "2026-08-16T07:45:30Z",
+      "2026-08-21T11:50:30Z",
+      "2026-08-21T16:58:30Z",
+      "2026-08-26T12:00:30Z",
+      "2026-08-26T22:20:30Z",
+      "2026-08-27T17:04:30Z",
+      "2026-08-29T16:35:30Z",
+      "2026-08-30T21:49:30Z"
+    ],
+    "posting_hours": [
+      7,
+      8,
+      12,
+      17,
+      21
+    ],
+    "active_hours": [
+      7,
+      8,
+      12,
+      17,
+      21
+    ],
+    "post_frequency_daily": 2.9,
+    "languages": [
+      "de",
+      "zh"
+    ],
+    "categories": [
+      "general_analysis",
+      "data_review",
+      "network_study"
+    ],
+    "content_tags": [
+      "general_analysis",
+      "data_review"
+    ],
+    "risk_score": 0.14,
+    "relationships": [
+      {
+        "identity_id": "bd49d467-7068-4296-a8bd-3012e10d47ad",
+        "username": "PatternHunter",
+        "confidence_score": 0.75,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 116,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.114.100.3",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "blog",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "f7eea5cb-4694-4669-b2c9-2a818c6767e0",
+    "username": "VaultIndex",
+    "aliases": [
+      "vaultindex_obs",
+      "vaultindex_73"
+    ],
+    "email": "vaultindex@simulated.research",
+    "pgp_fingerprint": "C362EFE3FEAAEF3B266415F1B6E7A1B3DC472D9F",
+    "crypto_wallets": [
+      "0x4a662449e5a7025babbb41053efff9b049465f89"
+    ],
+    "wallet_addresses": [
+      "0x4a662449e5a7025babbb41053efff9b049465f89"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Field completeness scores support demonstration use.",
+      "Synthetic record quality checks completed without anomalies.",
+      "Dataset review notes remain within authorized research bounds."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 5.03,
+      "punctuation_density": 0.13,
+      "vocabulary_diversity": 0.65
+    },
+    "posting_timestamps": [
+      "2026-07-20T13:17:30Z",
+      "2026-07-20T14:27:30Z",
+      "2026-07-25T23:57:30Z",
+      "2026-07-26T21:04:30Z",
+      "2026-07-31T20:55:30Z",
+      "2026-08-01T00:02:30Z",
+      "2026-08-01T19:20:30Z",
+      "2026-08-02T14:23:30Z",
+      "2026-08-02T14:23:30Z",
+      "2026-08-04T21:10:30Z",
+      "2026-08-09T12:59:30Z",
+      "2026-08-13T20:37:30Z",
+      "2026-08-14T12:33:30Z",
+      "2026-08-15T12:37:30Z",
+      "2026-08-15T13:10:30Z",
+      "2026-08-17T21:28:30Z",
+      "2026-08-19T21:27:30Z",
+      "2026-08-21T12:38:30Z",
+      "2026-08-23T00:08:30Z",
+      "2026-08-26T20:35:30Z",
+      "2026-08-27T20:41:30Z"
+    ],
+    "posting_hours": [
+      5,
+      8,
+      10,
+      15,
+      16
+    ],
+    "active_hours": [
+      5,
+      8,
+      10,
+      15,
+      16
+    ],
+    "post_frequency_daily": 2.87,
+    "languages": [
+      "fr",
+      "es"
+    ],
+    "categories": [
+      "data_review",
+      "behavioral_analysis",
+      "pattern_recognition"
+    ],
+    "content_tags": [
+      "data_review",
+      "behavioral_analysis"
+    ],
+    "risk_score": 0.09,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 57,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.12.33.128",
+      "user_agent": "Mozilla/5.0 (Synthetic) ShadowLink-Research/1.0",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "marketplace",
+        "social"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "269fc1c2-f955-4418-8804-676f7cef2714",
+    "username": "PixelTrace",
+    "aliases": [
+      "pixeltrace_obs",
+      "pixeltrace_21"
+    ],
+    "email": "pixeltrace@simulated.research",
+    "pgp_fingerprint": "21DA7F90FAF5BBF930A501F662FD1D2C4CA176C4",
+    "crypto_wallets": [
+      "0xa2ad87e796cc9660573a27a846e722ed84010161"
+    ],
+    "wallet_addresses": [
+      "0xa2ad87e796cc9660573a27a846e722ed84010161"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Behavioral analysis uses authorized synthetic sessions.",
+      "Response latency bins are generated for scoring tests.",
+      "Session-length estimates are mock research values."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.2,
+      "punctuation_density": 0.052,
+      "vocabulary_diversity": 0.86
+    },
+    "posting_timestamps": [
+      "2026-07-18T07:35:30Z",
+      "2026-07-19T07:39:30Z",
+      "2026-07-19T21:03:30Z",
+      "2026-07-20T05:44:30Z",
+      "2026-07-22T06:18:30Z",
+      "2026-07-23T10:46:30Z",
+      "2026-07-28T21:30:30Z",
+      "2026-07-31T10:51:30Z",
+      "2026-08-01T17:49:30Z",
+      "2026-08-02T07:51:30Z",
+      "2026-08-06T21:30:30Z",
+      "2026-08-11T05:44:30Z",
+      "2026-08-12T21:22:30Z",
+      "2026-08-15T10:32:30Z",
+      "2026-08-16T07:37:30Z",
+      "2026-08-19T21:17:30Z",
+      "2026-08-20T18:19:30Z",
+      "2026-08-21T08:01:30Z",
+      "2026-08-23T21:18:30Z",
+      "2026-08-24T20:46:30Z",
+      "2026-08-26T06:14:30Z"
+    ],
+    "posting_hours": [
+      8,
+      11,
+      18,
+      21,
+      23
+    ],
+    "active_hours": [
+      8,
+      11,
+      18,
+      21,
+      23
+    ],
+    "post_frequency_daily": 1.55,
+    "languages": [
+      "de",
+      "ru"
+    ],
+    "categories": [
+      "behavioral_analysis",
+      "general_analysis",
+      "pattern_recognition"
+    ],
+    "content_tags": [
+      "behavioral_analysis",
+      "general_analysis"
+    ],
+    "risk_score": 0.22,
+    "relationships": [],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 74,
+      "platform_switch_frequency": "low",
+      "response_latency_pattern": "moderate"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.202.47.216",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "synthetic_proxy",
+      "platform_tags": [
+        "forum",
+        "development"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  },
+  {
+    "id": "22fcbcdd-6e53-4fa5-8120-b0b2e95f55b7",
+    "username": "EchoGrid",
+    "aliases": [
+      "echogrid_obs",
+      "echogrid_61"
+    ],
+    "email": "echogrid@simulated.research",
+    "pgp_fingerprint": "F7D939D00ABFDB9847799AD7B8651E677F5B0435",
+    "crypto_wallets": [
+      "0x33e59da24bfdabccd94ba23916f4300e52de0169"
+    ],
+    "wallet_addresses": [
+      "0x33e59da24bfdabccd94ba23916f4300e52de0169"
+    ],
+    "platform": "forum",
+    "bio": "Synthetic identity \u2014 defensive intelligence demonstration.",
+    "writing_samples": [
+      "Dataset review notes remain within authorized research bounds.",
+      "Field completeness scores support demonstration use.",
+      "Synthetic record quality checks completed without anomalies."
+    ],
+    "writing_style_signature": {
+      "avg_word_length": 6.2,
+      "punctuation_density": 0.134,
+      "vocabulary_diversity": 0.91
+    },
+    "posting_timestamps": [
+      "2026-07-20T22:21:30Z",
+      "2026-07-23T01:35:30Z",
+      "2026-07-23T11:40:30Z",
+      "2026-07-29T13:40:30Z",
+      "2026-07-29T21:29:30Z",
+      "2026-07-30T13:44:30Z",
+      "2026-07-30T22:25:30Z",
+      "2026-07-31T02:20:30Z",
+      "2026-08-01T21:12:30Z",
+      "2026-08-03T21:41:30Z",
+      "2026-08-04T13:32:30Z",
+      "2026-08-05T13:36:30Z",
+      "2026-08-05T20:50:30Z",
+      "2026-08-08T20:38:30Z",
+      "2026-08-13T13:42:30Z",
+      "2026-08-14T20:45:30Z",
+      "2026-08-17T21:39:30Z",
+      "2026-08-18T21:20:30Z",
+      "2026-08-19T14:04:30Z",
+      "2026-08-24T01:36:30Z",
+      "2026-08-25T01:40:30Z",
+      "2026-08-25T12:28:30Z",
+      "2026-08-25T21:49:30Z",
+      "2026-08-26T21:10:30Z",
+      "2026-08-31T12:26:30Z",
+      "2026-08-31T21:37:30Z"
+    ],
+    "posting_hours": [
+      3,
+      7,
+      8,
+      15,
+      17
+    ],
+    "active_hours": [
+      3,
+      7,
+      8,
+      15,
+      17
+    ],
+    "post_frequency_daily": 3.94,
+    "languages": [
+      "de",
+      "ja"
+    ],
+    "categories": [
+      "data_review",
+      "metadata_research",
+      "network_study"
+    ],
+    "content_tags": [
+      "data_review",
+      "metadata_research"
+    ],
+    "risk_score": 0.37,
+    "relationships": [
+      {
+        "identity_id": "f0e2819f-3db7-4e5f-9931-d4749246bd2c",
+        "username": "TraceNode",
+        "confidence_score": 0.69,
+        "correlation_type": "behavioral_similarity"
+      }
+    ],
+    "behavioral_profile": {
+      "typical_session_length_minutes": 36,
+      "platform_switch_frequency": "medium",
+      "response_latency_pattern": "fast"
+    },
+    "infrastructure_metadata": {
+      "origin_ip_range": "10.224.132.155",
+      "user_agent": "Synthetic-Client/2.0 (Analysis Mode)",
+      "connection_type": "research_gateway",
+      "platform_tags": [
+        "forum",
+        "blog"
+      ]
+    },
+    "metadata": {
+      "cluster": null,
+      "synthetic": true,
+      "dataset_version": "1.0.0"
+    },
+    "data_source": "synthetic_research_dataset",
+    "dataset_version": "1.0.0",
+    "created_for": "hackathon_demonstration",
+    "notes": [
+      "Synthetic identity \u2014 no real-world correlation intended.",
+      "For defensive security research and educational purposes only."
+    ]
+  }
+]
