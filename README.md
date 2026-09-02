@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# ShadowLink AI
+
+# Night Watch
 
 AI-Powered Threat Intelligence & Identity Correlation Platform — Hackathon Project
 
