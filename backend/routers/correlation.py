@@ -5,11 +5,13 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 from database import get_db
-from ml.stylometry import measure, stylometry_similarity
+from ml.stylometry import measure, compute_overall_stylometry_similarity
 from schemas.behavior import BehavioralComparison, BehavioralProfile
 from schemas.correlation import (
     CorrelationRequest,
     CorrelationResult,
+    StylometryCompareRequest,
+    StylometryCompareResult,
     IdentityCorrelationResult,
     StylometryRequest,
     StylometryResult,
@@ -59,20 +61,10 @@ def analyze_two_identities(
     return IdentityCorrelationResult(**result)
 
 
-@router.post("/stylometry/compare", response_model=StylometryResult)
-def stylometry_compare(request: StylometryRequest) -> StylometryResult:
-    started = time.perf_counter()
-    sig_a, sig_b, score, shared_ngrams, vocab_overlap, _ = stylometry_similarity(
-        request.text_a, request.text_b
-    )
-    return StylometryResult(
-        similarity_score=score,
-        text_a_signature=sig_a,
-        text_b_signature=sig_b,
-        shared_ngrams=shared_ngrams,
-        vocabulary_overlap=vocab_overlap,
-        duration_ms=measure(started),
-    )
+@router.post("/stylometry/compare", response_model=StylometryCompareResult)
+def stylometry_compare(request: StylometryCompareRequest) -> StylometryCompareResult:
+    result = compute_overall_stylometry_similarity(request.text_a, request.text_b)
+    return StylometryCompareResult(**result)
 
 
 @router.get("/behavior/{identity_id}", response_model=BehavioralProfile)

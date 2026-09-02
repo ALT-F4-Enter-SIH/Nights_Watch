@@ -48,6 +48,18 @@ class IdentityCorrelationSignals(BaseModel):
     graph: int = 0
 
 
+class StylometryCompareRequest(BaseModel):
+    text_a: str = Field(..., min_length=1, max_length=10000)
+    text_b: str = Field(..., min_length=1, max_length=10000)
+
+
+class StylometryCompareResult(BaseModel):
+    similarity_score: float = Field(..., ge=0, le=100, description="Overall stylometric similarity (0-100)")
+    signals: dict = Field(..., description="Individual similarity signal scores")
+    matching_features: list[str] = Field(default_factory=list)
+    explanation: str = ""
+
+
 class IdentityCorrelationResult(BaseModel):
     identity_a: str
     identity_b: str

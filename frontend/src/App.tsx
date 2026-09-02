@@ -1,11 +1,15 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Layout from './components/layout/Layout'
 import Dashboard from './pages/Dashboard'
-import Identities from './pages/Identities'
-import Relations from './pages/Relations'
-import Analytics from './pages/Analytics'
-import Import from './pages/Import'
-import Settings from './pages/Settings'
+import InvestigationsPage from './pages/InvestigationsPage'
+import GraphPage from './pages/GraphPage'
+import CorrelationPage from './pages/CorrelationPage'
+import StylometryPage from './pages/StylometryPage'
+import BehaviorPage from './pages/BehaviorPage'
+import InfrastructurePage from './pages/InfrastructurePage'
+import EvidencePage from './pages/EvidencePage'
+import ReportsPage from './pages/ReportsPage'
+import SettingsPage from './pages/SettingsPage'
 
 function App() {
   return (
@@ -13,11 +17,15 @@ function App() {
       <Layout>
         <Routes>
           <Route path="/" element={<Dashboard />} />
-          <Route path="/identities" element={<Identities />} />
-          <Route path="/relations" element={<Relations />} />
-          <Route path="/analytics" element={<Analytics />} />
-          <Route path="/import" element={<Import />} />
-          <Route path="/settings" element={<Settings />} />
+          <Route path="/investigations" element={<InvestigationsPage />} />
+          <Route path="/graph" element={<GraphPage />} />
+          <Route path="/correlation" element={<CorrelationPage />} />
+          <Route path="/stylometry" element={<StylometryPage />} />
+          <Route path="/behavior" element={<BehaviorPage />} />
+          <Route path="/infrastructure" element={<InfrastructurePage />} />
+          <Route path="/evidence" element={<EvidencePage />} />
+          <Route path="/reports" element={<ReportsPage />} />
+          <Route path="/settings" element={<SettingsPage />} />
         </Routes>
       </Layout>
     </BrowserRouter>
