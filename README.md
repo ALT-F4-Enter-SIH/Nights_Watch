@@ -1,4 +1,4 @@
-# ShadowLink AI — Threat Intelligence & Identity Correlation Platform
+# Nights Watch — Threat Intelligence & Identity Correlation Platform
 
 > Defensive security research · Synthetic dataset only · Educational hackathon demo
 
