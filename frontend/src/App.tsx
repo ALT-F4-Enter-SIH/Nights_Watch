@@ -10,6 +10,7 @@ import InfrastructurePage from './pages/InfrastructurePage'
 import EvidencePage from './pages/EvidencePage'
 import ReportsPage from './pages/ReportsPage'
 import SettingsPage from './pages/SettingsPage'
+import ReplayPage from './pages/ReplayPage'
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route path="/evidence" element={<EvidencePage />} />
           <Route path="/reports" element={<ReportsPage />} />
           <Route path="/settings" element={<SettingsPage />} />
+          <Route path="/replay" element={<ReplayPage />} />
         </Routes>
       </Layout>
     </BrowserRouter>

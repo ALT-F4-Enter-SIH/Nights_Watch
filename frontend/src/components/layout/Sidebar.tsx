@@ -16,6 +16,7 @@ import {
   ChevronRight,
   Shield,
   Eye,
+  Play,
 } from 'lucide-react'
 
 const NAV_ITEMS = [
@@ -28,6 +29,7 @@ const NAV_ITEMS = [
   { to: '/infrastructure', label: 'Infrastructure Intel', icon: Server },
   { to: '/evidence', label: 'Evidence Vault', icon: Lock },
   { to: '/reports', label: 'Reports', icon: FileText },
+  { to: '/replay', label: 'Investigation Replay', icon: Play },
   { divider: true },
   { to: '/settings', label: 'Settings', icon: Settings },
 ]
