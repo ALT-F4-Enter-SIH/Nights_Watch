@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShadowLink AI
 
 AI-Powered Threat Intelligence & Identity Correlation Platform — Hackathon Project
@@ -46,3 +47,7 @@ See `data/DATASET.md` for cluster design, field lists, and verification notes.
 
 ## Data Note
 All datasets must be synthetic/mock/authorized only. No real-world deanonymization.
+=======
+# Nights_Watch
+Nights Watch AI is an AI-powered threat intelligence platform that identifies potential links between fragmented digital identities using stylometry, behavioral analysis, cryptographic identifiers, metadata correlation, and graph intelligence. It provides explainable confidence scores and interactive visualizations for investigations.
+>>>>>>> 583046b891ded507121066227554d633e67361bb
